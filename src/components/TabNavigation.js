@@ -1,6 +1,6 @@
 import React from "react";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import { HomeStackNavigation, SearchStackNavigation } from "./StackNavigation";
+import { HomeStackNavigation, LibraryStacknavigation, SearchStackNavigation } from "./StackNavigation";
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 MaterialIcons.loadFont();
 
@@ -10,9 +10,11 @@ const TabNavigation = () => {
     return (
         <Tab.Navigator
             tabBarOptions={{
-                activeTinColor: '#ffffff',
-                inactiveTinColor: '#969696',
-                style: { backgroundColor: '#232323' },
+                activeTintColor: '#ffffff',
+                inactiveTintColor: '#707070',
+                style: { backgroundColor: '#232323', height: 80 },
+                labelStyle: {fontSize: 15},
+                
             }}>
             <Tab.Screen
                 name="Home"
@@ -31,6 +33,16 @@ const TabNavigation = () => {
                     tabBarLabel: 'Tìm kiếm',
                     tabBarIcon: ({ color }) => (
                         <MaterialIcons name="search" size={26} color={color} />
+                    )
+                }}
+            />
+            <Tab.Screen
+                name="Library"
+                component={LibraryStacknavigation}
+                options={{
+                    tabBarLabel: 'Thư viện',
+                    tabBarIcon: ({ color }) => (
+                        <MaterialIcons name="book" size={26} color={color} />
                     )
                 }}
             />
