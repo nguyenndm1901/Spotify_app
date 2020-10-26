@@ -125,7 +125,8 @@ const styles = StyleSheet.create({
         fontSize: 18,
         color: '#fafafa',
         width: 216,
-        fontFamily: 'Arial'
+        fontFamily: 'Arial',
+        paddingTop: 5,
     },
     itemAuthor: {
         fontSize: 14,
