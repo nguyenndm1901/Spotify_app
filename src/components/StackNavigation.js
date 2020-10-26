@@ -33,4 +33,4 @@ const LibraryStacknavigation = () => {
     );
 };
 
-export { HomeStackNavigation, SearchStackNavigation };
+export { HomeStackNavigation, SearchStackNavigation, LibraryStacknavigation };
