@@ -22,7 +22,24 @@ const SearchScreen = () => {
                         Search
                     </Text>
                 </View>
-                <View style={styles.boxStyle}>
+                <Search />
+            </View>
+        </ScrollView>
+    );
+}
+class Search extends Component {
+    state = {
+        search: ''
+    }
+    handleSearch = (text) => {
+        this.setState({ search: text })
+    }
+    icon = (search) => {
+        alert("Search: " + search)
+    }
+    render() {
+        return (
+            <View style={styles.boxStyle}>
                     <TextInput style={styles.input}
                         underlineColorAndroid="transparent"
                         placeholder="Artists, songs, or podcasts"
@@ -37,27 +54,12 @@ const SearchScreen = () => {
                         size={24}
                         color="#969696"
                         style={styles.searchIcon}
-                        onPress={() => this.searchButton(this.state.search)}
+                        onPress={() => this.icon(this.state.search)}
                     />
                 </View>
-            </View>
-        </ScrollView>
-    );
-}
-/* class Search extends Component {
-    state = {
-        search: ''
-    }
-    handleSearch = (text) => {
-        this.setState({ search: text })
-    }
-    searchButton = (search) => {
-        alert('search: ' + search)
-    }
-    render() {
-        <SearchScreen/>
+        );
     };
-} */
+}
 
 const styles = StyleSheet.create({
     headerContainer: {
