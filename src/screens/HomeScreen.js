@@ -40,7 +40,7 @@ const HomeScreen = ({navigation}) => {
             color="#969696"
             style={styles.settingIcon}
             onPress={() => {
-              navigation.navigate("Settings");
+              navigation.navigate("SettingsScreen");
             }}
           />
         </View>
