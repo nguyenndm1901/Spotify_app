@@ -5,6 +5,7 @@ import HomeScreen from "../screens/HomeScreen";
 import Settings from "../screens/Settings";
 import SearchScreen from "../screens/SearchScreen";
 import LibraryScreen from "../screens/LibraryScreen"
+import Profile from "../screens/Profile"
 
 const Stack = createStackNavigator();
 
@@ -15,7 +16,7 @@ const HomeStackNavigation = () => {
                 options={{
                     headerShown: false,
                 }}
-                name="Home" 
+                name="Home"
                 component={HomeScreen} />
             <Stack.Screen
                 options={{
@@ -24,9 +25,19 @@ const HomeStackNavigation = () => {
                     headerTintColor: 'white',
                     headerTitleStyle: { fontSize: 25, fontFamily: 'Arial' },
                     headerBackTitle: 'Trở về',
+                    gestureEnabled: false,
                 }}
-                name="SettingsScreen" 
+                name="SettingsScreen"
                 component={Settings} />
+            <Stack.Screen
+                options={{
+                    title: '',
+                    headerTransparent: true,
+                    headerBackTitle: ' ',
+                    headerTintColor: 'black',
+                    gestureEnabled: false,
+                }}
+                name="Profile" component={Profile} />
         </Stack.Navigator>
     );
 };
