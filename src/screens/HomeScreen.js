@@ -1,17 +1,13 @@
 import React from 'react';
 import {
   StyleSheet,
-  Image,
   View,
-  Text,
-  Dimensions,
   ScrollView,
-  StatusBar, Button
+  StatusBar
 } from 'react-native';
 import Album1 from '../components/Album1';
 import Album2 from '../components/Album2';
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
-import Settings from './Settings'
 FontAwesome.loadFont();
 
 const styles = StyleSheet.create({
