@@ -7,6 +7,7 @@ import {
 } from 'react-native';
 import Album1 from '../components/Album1';
 import Album2 from '../components/Album2';
+import LinearGradient from 'react-native-linear-gradient';
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
 FontAwesome.loadFont();
 
@@ -27,6 +28,12 @@ const styles = StyleSheet.create({
 const HomeScreen = ({navigation}) => {
   return (
     <ScrollView vertical={true} style={styles.scrollViewSetting}>
+      <LinearGradient
+                colors={['#783C50', 'black']}
+                style={styles.linearGradient}
+                start={{ x: 0.5, y: 0 }}
+                end={{ x: 1, y: 0.5 }}
+                >
       <View style={styles.screenCover}>
         <StatusBar barStyle={"light-content"} translucent={true} />
         <View>
@@ -45,6 +52,7 @@ const HomeScreen = ({navigation}) => {
           <Album2 />
         </View>
       </View>
+      </LinearGradient>
     </ScrollView>
   );
 };

@@ -11,19 +11,27 @@ import {
 import { TextInput } from 'react-native-gesture-handler';
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
 FontAwesome.loadFont();
+import LinearGradient from 'react-native-linear-gradient';
+
 const screenWidth = Math.round(Dimensions.get('window').width);
 const SearchScreen = () => {
     return (
         <ScrollView vertical={true} style={styles.scrollViewSetting}>
-            <View style={styles.screenCover}>
-                <StatusBar barStyle={"light-content"} translucent={true} />
-                <View style={styles.headerContainer}>
-                    <Text style={styles.headerText}>
-                        Search
-                    </Text>
+            <LinearGradient
+                colors={['purple', 'black']}
+                style={styles.linearGradient}
+                start={{ x: 0.5, y: -1 }}
+                end={{ x: 0.9, y: 0.5 }}>
+                <View style={styles.screenCover}>
+                    <StatusBar barStyle={"light-content"} translucent={true} />
+                    <View style={styles.headerContainer}>
+                        <Text style={styles.headerText}>
+                            Search
+                        </Text>
+                    </View>
+                    <Search />
                 </View>
-                <Search />
-            </View>
+            </LinearGradient>
         </ScrollView>
     );
 }
@@ -40,23 +48,23 @@ class Search extends Component {
     render() {
         return (
             <View style={styles.boxStyle}>
-                    <TextInput style={styles.input}
-                        underlineColorAndroid="transparent"
-                        placeholder="Artists, songs, or podcasts"
-                        placeholderTextColor="#808080"
-                        autoCapitalize='characters'
-                        textAlignVertical='center'
-                        textAlignHorizontal='center'
-                        onChangeText={this.handleSearch}
-                    />
-                    <FontAwesome
-                        name="search"
-                        size={24}
-                        color="#969696"
-                        style={styles.searchIcon}
-                        onPress={() => this.icon(this.state.search)}
-                    />
-                </View>
+                <TextInput style={styles.input}
+                    underlineColorAndroid="transparent"
+                    placeholder="Artists, songs, or podcasts"
+                    placeholderTextColor="#808080"
+                    autoCapitalize='characters'
+                    textAlignVertical='center'
+                    textAlignHorizontal='center'
+                    onChangeText={this.handleSearch}
+                />
+                <FontAwesome
+                    name="search"
+                    size={24}
+                    color="#969696"
+                    style={styles.searchIcon}
+                    onPress={() => this.icon(this.state.search)}
+                />
+            </View>
         );
     };
 }
@@ -69,10 +77,10 @@ const styles = StyleSheet.create({
     },
     boxStyle: {
         width: screenWidth * 0.75,
-        flex: 1,
+        //flex: 1,
     },
     headerText: {
-        flex: 1,
+        //flex: 1,
         paddingTop: 40,
         paddingBottom: 4,
         paddingHorizontal: 90,

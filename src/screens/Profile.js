@@ -22,7 +22,7 @@ const Profile = () => {
                     colors={['#783C50', 'black']}
                     style={styles.linearGradient}
                     start={{ x: 0.5, y: -0.3 }}
-                //end={{ x: 1, y: 1 }}
+                    end={{ x: 0.85, y: 0.45 }}
                 >
                     <Image source={require('../components/assets/image.png')} style={styles.imageStyle} />
                     <Text style={styles.nameStyle}>
@@ -69,27 +69,27 @@ const Profile = () => {
                         Public Playlist
                     </Text>
                     <View style={styles.playlists}>
-                        <View style={{flex: 1, alignSelf: 'flex-start'}}>
-                            <Image source={require('../components/assets/playlist.png')} style={styles.image}/>
+                        <View style={{ flex: 1, alignSelf: 'flex-start' }}>
+                            <Image source={require('../components/assets/playlist.png')} style={styles.image} />
                         </View>
-                        <View style={{flex: 4, alignSelf: 'flex-start'}}>
+                        <View style={{ flex: 4, alignSelf: 'flex-start' }}>
                             <Text style={{
-                                color: 'white', 
+                                color: 'white',
                                 fontSize: 16,
                                 fontFamily: 'Arial',
                                 fontWeight: 'bold',
                                 marginTop: 20,
                                 marginLeft: 5,
-                                }}>
+                            }}>
                                 Playlist 1
                             </Text>
                             <Text style={{
-                                color: 'white', 
+                                color: 'white',
                                 fontSize: 12,
                                 fontFamily: 'Arial',
                                 marginTop: 5,
                                 marginLeft: 5,
-                                }}>
+                            }}>
                                 0 Follower(s)
                             </Text>
                         </View>

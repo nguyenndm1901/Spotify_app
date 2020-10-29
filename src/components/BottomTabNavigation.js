@@ -3,6 +3,8 @@ import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { HomeStackNavigation, LibraryStacknavigation, SearchStackNavigation } from "./StackNavigation";
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 MaterialIcons.loadFont();
+import FontAwesome from 'react-native-vector-icons/FontAwesome';
+FontAwesome.loadFont();
 
 const Tab = createBottomTabNavigator();
 
@@ -43,6 +45,16 @@ const BottomTabNavigation = () => {
                     tabBarLabel: 'Thư viện',
                     tabBarIcon: ({ color }) => (
                         <MaterialIcons name="book" size={26} color={color} />
+                    )
+                }}
+            />
+            <Tab.Screen
+                name="Spotify"
+                component={LibraryStacknavigation}
+                options={{
+                    tabBarLabel: 'Premium',
+                    tabBarIcon: ({ color }) => (
+                        <FontAwesome name="spotify" size={26} color={color} />
                     )
                 }}
             />

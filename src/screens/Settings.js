@@ -33,7 +33,7 @@ const Settings = ({ navigation }) => {
     const [isEnabledGapless, setIsEnabledGapless] = useState(true);
     const toggleSwitchGapless = () => setIsEnabledGapless(previousState => !previousState);
 
-    const [isEnabledCanvas, setIsEnabledCanvas] = useState(false);
+    const [isEnabledCanvas, setIsEnabledCanvas] = useState(true);
     const toggleSwitchCanvas = () => setIsEnabledCanvas(previousState => !previousState);
 
     const [sliderValue, setSliderValue] = useState(2);

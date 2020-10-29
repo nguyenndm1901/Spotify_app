@@ -58,4 +58,12 @@ const LibraryStacknavigation = () => {
     );
 };
 
-export { HomeStackNavigation, SearchStackNavigation, LibraryStacknavigation };
+const SpotifyStacknavigation = () => {
+    return (
+        <Stack.Navigator screenOptions={{ headerShown: false }}>
+            <Stack.Screen name="Spotify" component={TopTabNavigation} />
+        </Stack.Navigator>
+    );
+};
+
+export { HomeStackNavigation, SearchStackNavigation, SpotifyStacknavigation, LibraryStacknavigation };

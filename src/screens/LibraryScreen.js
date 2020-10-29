@@ -81,7 +81,7 @@ const Albums = () => {
         <View style={styles.screenCover}>
             <View style={styles.album}>
                 <Text style={styles.albumsText}>
-                    Your albums will appear hear.
+                    Your albums will appear here.
                 </Text>
             </View>
         </View>
