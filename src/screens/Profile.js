@@ -16,7 +16,7 @@ const screenHeight = Math.round(Dimensions.get('window').height);
 const Profile = () => {
     return (
         <View style={styles.background}>
-            <StatusBar barStyle={"dark-content"} translucent={true} />
+            <StatusBar barStyle={"light-content"} translucent={true} />
             <View style={styles.firstView}>
                 <LinearGradient
                     colors={['#783C50', 'black']}
@@ -90,7 +90,7 @@ const Profile = () => {
                                 marginTop: 5,
                                 marginLeft: 5,
                                 }}>
-                                0 Follower
+                                0 Follower(s)
                             </Text>
                         </View>
                     </View>

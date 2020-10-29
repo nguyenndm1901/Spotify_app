@@ -4,8 +4,8 @@ import { createStackNavigator } from "@react-navigation/stack";
 import HomeScreen from "../screens/HomeScreen";
 import Settings from "../screens/Settings";
 import SearchScreen from "../screens/SearchScreen";
-import LibraryScreen from "../screens/LibraryScreen"
 import Profile from "../screens/Profile"
+import TopTabNavigation from './TopTabNavigation'
 
 const Stack = createStackNavigator();
 
@@ -34,7 +34,7 @@ const HomeStackNavigation = () => {
                     title: '',
                     headerTransparent: true,
                     headerBackTitle: ' ',
-                    headerTintColor: 'black',
+                    headerTintColor: 'white',
                     gestureEnabled: false,
                 }}
                 name="Profile" component={Profile} />
@@ -53,7 +53,7 @@ const SearchStackNavigation = () => {
 const LibraryStacknavigation = () => {
     return (
         <Stack.Navigator screenOptions={{ headerShown: false }}>
-            <Stack.Screen name="Library" component={LibraryScreen} />
+            <Stack.Screen name="Library" component={TopTabNavigation} />
         </Stack.Navigator>
     );
 };

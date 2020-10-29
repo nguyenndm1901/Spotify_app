@@ -6,7 +6,7 @@ MaterialIcons.loadFont();
 
 const Tab = createBottomTabNavigator();
 
-const TabNavigation = () => {
+const BottomTabNavigation = () => {
     return (
         <Tab.Navigator
             tabBarOptions={{
@@ -50,4 +50,4 @@ const TabNavigation = () => {
     );
 };
 
-export default TabNavigation;
+export default BottomTabNavigation;
