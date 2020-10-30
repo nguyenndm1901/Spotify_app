@@ -5,6 +5,7 @@ import HomeScreen from "../screens/HomeScreen";
 import Settings from "../screens/Settings";
 import SearchScreen from "../screens/SearchScreen";
 import Profile from "../screens/Profile"
+import Premium from '../screens/Premium'
 import TopTabNavigation from './TopTabNavigation'
 
 const Stack = createStackNavigator();
@@ -61,7 +62,7 @@ const LibraryStacknavigation = () => {
 const SpotifyStacknavigation = () => {
     return (
         <Stack.Navigator screenOptions={{ headerShown: false }}>
-            <Stack.Screen name="Spotify" component={TopTabNavigation} />
+            <Stack.Screen name="Spotify" component={Premium} />
         </Stack.Navigator>
     );
 };

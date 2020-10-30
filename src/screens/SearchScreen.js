@@ -18,10 +18,10 @@ const SearchScreen = () => {
     return (
         <ScrollView vertical={true} style={styles.scrollViewSetting}>
             <LinearGradient
-                colors={['purple', 'black']}
+                colors={['white', 'black']}
                 style={styles.linearGradient}
                 start={{ x: 0.5, y: -1 }}
-                end={{ x: 0.9, y: 0.5 }}>
+                end={{ x: 0.8, y: 0.5 }}>
                 <View style={styles.screenCover}>
                     <StatusBar barStyle={"light-content"} translucent={true} />
                     <View style={styles.headerContainer}>

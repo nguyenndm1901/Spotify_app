@@ -1,6 +1,6 @@
 import React from "react";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import { HomeStackNavigation, LibraryStacknavigation, SearchStackNavigation } from "./StackNavigation";
+import { HomeStackNavigation, LibraryStacknavigation, SearchStackNavigation, SpotifyStacknavigation } from "./StackNavigation";
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 MaterialIcons.loadFont();
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
@@ -50,7 +50,7 @@ const BottomTabNavigation = () => {
             />
             <Tab.Screen
                 name="Spotify"
-                component={LibraryStacknavigation}
+                component={SpotifyStacknavigation}
                 options={{
                     tabBarLabel: 'Premium',
                     tabBarIcon: ({ color }) => (
