@@ -1,100 +1,134 @@
-import React, { Component } from 'react';
+import React, { useCallback, memo, useRef, useState } from "react";
 import {
-    StyleSheet,
-    Image,
-    View,
-    Text,
-    Dimensions,
-    ScrollView,
-    StatusBar
-} from 'react-native';
-import FontAwesome from 'react-native-vector-icons/FontAwesome';
-FontAwesome.loadFont();
-import Swiper from "react-native-web-swiper";
+  FlatList,
+  View,
+  Dimensions,
+  Text,
+  StyleSheet,
+  Image,
+} from "react-native";
 
-const screenHeight = Math.round(Dimensions.get('window').height);
-const screenWidth = Math.round(Dimensions.get('window').width);
-
-export default class Screen extends React.Component {
-    render() {
-        return (
-            <ScrollView vertical={true} style={styles.scrollView}>
-                <View style={styles.screenCover}>
-                    <View style={styles.headerContainer}>
-                        <Text style={styles.headerText}>
-                            Get more out of your music with Premium
-                        </Text>
-                        <View>
-                            <View style={{ flex: 1 }}>
-                                <Swiper
-                                    direction='row'
-                                    controlsProps={{
-                                        dotsPos: 'bottom',
-                                        dotsTouchable: false,
-                                        prevPos: false,
-                                        nextPos: false,
-                                    }}>
-                                    <View style={styles.slideContainer} >
-                                        <Image source={require('../components/assets/premium1.png')} style={styles.premiumImage} />
-                                    </View>
-                                    <View style={[styles.slideContainer]} >
-                                        <Image source={require('../components/assets/premium2.png')} style={styles.premiumImage} />
-                                    </View>
-                                    <View style={[styles.slideContainer]} >
-                                        <Image source={require('../components/assets/premium3.png')} style={styles.premiumImage} />
-                                    </View>
-                                    <View style={[styles.slideContainer]} >
-                                        <Image source={require('../components/assets/premium4.png')} style={styles.premiumImage} />
-                                    </View>
-                                    <View style={[styles.slideContainer]} >
-                                        <Image source={require('../components/assets/premium5.png')} style={styles.premiumImage} />
-                                    </View>
-                                </Swiper>
-                            </View>
-                        </View>
-                    </View>
-                </View>
-            </ScrollView>
-        )
-    }
-}
+const { width: windowWidth, height: windowHeight } = Dimensions.get("window");
 
 const styles = StyleSheet.create({
-    scrollView: {
-        backgroundColor: 'black',
-    },
-    slideContainer: {
-        flex: 1,
-        alignItems: 'center',
-        justifyContent: 'center',
-    },
-    premiumImage: {
-        width: 294,
-        height: 147,
-        borderRadius: 5,
-    },
-    headerText: {
-        color: 'white',
-        alignSelf: 'center',
-        textAlign: 'center',
-        fontWeight: 'bold',
-        fontFamily: "Arial",
-        fontSize: 30,
-        top: (screenHeight - 600) / 2,
-        width: screenWidth * 0.75,
-    },
-    headerContainer: {
-        flex: 1,
-        flexDirection: 'column',
-        alignSelf: 'center',
-        paddingVertical: 30,
-        paddingHorizontal: 10,
-    },
-    screenCover: {
-        flex: 1,
-        flexDirection: 'column',
-        backgroundColor: 'black',
-        paddingTop: 16,
-    },
-})
+  slide: {
+    height: windowHeight,
+    width: windowWidth,
+    justifyContent: "center",
+    alignItems: "center",
+  },
+  slideImage: { width: 196, height: 98 },
 
+  pagination: {
+    position: "absolute",
+    bottom: 8,
+    width: "100%",
+    justifyContent: "center",
+    flexDirection: "row",
+  },
+  paginationDot: {
+    width: 8,
+    height: 8,
+    borderRadius: 4,
+    marginHorizontal: 2,
+  },
+  paginationDotActive: { backgroundColor: "black" },
+  paginationDotInactive: { backgroundColor: "gray" },
+
+  carousel: { flex: 1 },
+});
+
+const slideList = Array.from({ length: 5 }).map((_, i) => {
+  return {
+    id: i,
+    image: require(`../components/assets/premium${i}.png`),
+  };
+});
+
+const Slide = memo(function Slide({ data }) {
+  return (
+    <View style={styles.slide}>
+      <Image source={{ uri: data.image }} style={styles.slideImage}></Image>
+    </View>
+  );
+});
+
+function Pagination({ index }) {
+  return (
+    <View style={styles.pagination} pointerEvents="none">
+      {slideList.map((_, i) => {
+        return (
+          <View
+            key={i}
+            style={[
+              styles.paginationDot,
+              index === i
+                ? styles.paginationDotActive
+                : styles.paginationDotInactive,
+            ]}
+          />
+        );
+      })}
+    </View>
+  );
+}
+
+export default function Carousel() {
+  const [index, setIndex] = useState(0);
+  const indexRef = useRef(index);
+  indexRef.current = index;
+  const onScroll = useCallback((event) => {
+    const slideSize = event.nativeEvent.layoutMeasurement.width;
+    const index = event.nativeEvent.contentOffset.x / slideSize;
+    const roundIndex = Math.round(index);
+
+    const distance = Math.abs(roundIndex - index);
+
+    // Prevent one pixel triggering setIndex in the middle
+    // of the transition. With this we have to scroll a bit
+    // more to trigger the index change.
+    const isNoMansLand = 0.4 < distance;
+
+    if (roundIndex !== indexRef.current && !isNoMansLand) {
+      setIndex(roundIndex);
+    }
+  }, []);
+
+  const flatListOptimizationProps = {
+    initialNumToRender: 0,
+    maxToRenderPerBatch: 1,
+    removeClippedSubviews: true,
+    scrollEventThrottle: 16,
+    windowSize: 2,
+    keyExtractor: useCallback(s => String(s.id), []),
+    getItemLayout: useCallback(
+      (_, index) => ({
+        index,
+        length: windowWidth,
+        offset: index * windowWidth,
+      }),
+      []
+    ),
+  };
+
+  const renderItem = useCallback(function renderItem({ item }) {
+    return <Slide data={item} />;
+  }, []);
+
+  return (
+    <>
+      <FlatList
+        data={slideList}
+        style={styles.carousel}
+        renderItem={renderItem}
+        pagingEnabled
+        horizontal
+        showsHorizontalScrollIndicator={false}
+        bounces={false}
+        onScroll={onScroll}
+        {...flatListOptimizationProps}
+      />
+      <Pagination index={index}></Pagination>
+    </>
+  );
+}

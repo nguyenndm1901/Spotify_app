@@ -6,7 +6,8 @@ import {
     Text,
     Dimensions,
     ScrollView,
-    StatusBar
+    StatusBar,
+    Platform
 } from 'react-native';
 import { TextInput } from 'react-native-gesture-handler';
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
@@ -76,7 +77,7 @@ const styles = StyleSheet.create({
         paddingHorizontal: 10,
     },
     boxStyle: {
-        width: screenWidth * 0.75,
+        width: screenWidth * 0.95,
         //flex: 1,
     },
     headerText: {
@@ -104,9 +105,17 @@ const styles = StyleSheet.create({
     },
     searchIcon: {
         position: 'absolute',
-        marginLeft: 290,
-        paddingTop: 6,
-        paddingHorizontal: 30,
+        ...Platform.select({
+            ios: {
+                marginLeft: 355,
+                paddingTop: 7,
+            },
+            android: {
+                marginLeft: 355,
+                paddingTop: 7,
+            }
+
+        })
     },
     input: {
         backgroundColor: 'white',
@@ -116,6 +125,7 @@ const styles = StyleSheet.create({
         justifyContent: 'center',
         alignItems: 'center',
         textAlign: 'center',
+        height: 40,
     },
 });
 

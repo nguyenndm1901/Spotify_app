@@ -5,9 +5,9 @@ INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/
 INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:1-27:12
 INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:1-27:12
 MERGED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:1-27:12
-MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:8:1-18:12
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/bd2cab46fd45b530a274001375333ead/flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/dd7dfafbb0af41b4347f18654ea5c436/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/54fec94f1db356169b82f56255ba815e/flipper-0.54.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/cf53be8d5439a352e234a850e2e60e9c/flipper-network-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/bf561306667b36e263f3fba74c411e40/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:8:1-15:12
 MERGED from [:react-native-community_masked-view] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-community_slider] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
@@ -15,54 +15,54 @@ MERGED from [:react-native-reanimated] /Users/nguyenducminhnguyen/Desktop/GitHub
 MERGED from [:react-native-safe-area-context] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-vector-icons] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.react:react-native:0.63.3] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/73903fdd3362d2d333d2cae68efece79/jetified-react-native-0.63.3/AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [org.webkit:android-jsc:r245459] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/6dd6245206e34676e1ee3aa6ee0f68c9/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.63.3] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/94a86735098377eaa8f659abbfdbd3a2/jetified-react-native-0.63.3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3988366ed26c9047f8c81042e4ca5f4b/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/be8641bfa53479d6e5cc058c010966bc/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-linear-gradient] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/40741ffe3de6a11d99116b4e82d60d46/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/03aa51752e7d7098a02114b07907dabd/stetho-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e9f56679cbe795a6f7c93e9a035f66f2/fresco-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/559ddc4b7f576fedc63e05921b88e895/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0288f1bca211d259126211029f92054c/drawee-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/766471e6648d662c31b10c1bbc5126fe/nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/57a87fccccbdbe36e69f72b01ce521f1/memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0abe31decb23fc939dbab3bf21d1ccec/memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3b508a8e13388bdc4e88ee330cec4cdc/imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/104429b66e46c675401dada578683150/memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/fe90bfac000734a7d0d9c150b7915ff6/imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/34efa7b8fb78d46cf2b753de7fbfc5a5/nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/237bbc58c0787eee6b78f947e2baeeaa/imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/65f592cbf7e10992754db73be6c6ba25/soloader-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c34148f30cbc3e974eff21cbfb6a112a/soloader-0.9.0/AndroidManifest.xml:2:1-13:12
-MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/863e0c3c6716935cd3657ad638fd992d/material-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b1b165607eae60d70e4267b97e24514b/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/28888a6f6660db47b3788df392c672a7/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/efb592adf2592d134c27edc4a56e19d2/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/8cd6316737e8f518184be95be51b9ee8/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.2.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/37aaca75d3d19faa6fb296103cea95d8/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c062602fe4e1f75f724363688044d993/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c99af001058cd5265376dded8456f828/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/40f1c5d439eea30faeaafe93e7bdf45f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/faa15558a5d57e35e462c9e1f0248694/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/89bcabef273c834c0566b445ed28172c/activity-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/4300f0cd89d6453d731712a999b6e53f/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e0a79d4379c4eef3803202a497c19313/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/820068d4be612586a05a9daff9be7b77/transition-1.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/6bd464ed06f075f4e42b3fde6a89e60a/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3b41f2ef3d4a30256bbd9d1017371108/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2786c84c1e653e40bd67508414ca298f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/db36fbbf4470b1ce63fe644e40ae81d3/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/304e6293e0820147023aa187c0f862e1/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/7ce8a2eb9e81825ec9bcc373c597a746/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/124ee19a63f3e171c196264ecc845daa/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/4ce17f8b4390b23da9bedc3cee010ec1/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/4da6ddd3c71dbaec92b0fdf3bbca4ce7/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2ef959591ee3dfd7e7d0f130ebacb270/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/babedcb26ba2505096ea9fb87ec93180/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/10d4d5b619a3fbd216a9a3bb63af471f/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c114d4501470930b3986c4f9bd2da0fd/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/73d51b0a51f6335b87e1488851776f1d/flipper-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/cd738c228ed446ca90d7fb46fbafb4ce/stetho-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0446045e5f655d276226e524895489aa/fresco-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/cca6a8ec91bb5ac723b7c2f2319dc957/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/473c9280acfa0ede01d9aa9b4a50d10c/drawee-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2203257ab63a0e321d9f37703a00821a/nativeimagefilters-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a2c814df604d92a74569f993c02f27fa/memory-type-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/170270e998ebf78cf200c0e241cb3f09/memory-type-java-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/49d0d1b4cb0e22b9c22fada6037d7f7f/imagepipeline-native-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/82627c9925c1e4d47f8a30f00d736856/memory-type-ashmem-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/f531f65620f617dcc573c4f2e041fa9c/imagepipeline-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ffba56be7a454ca3bf4bf76070e7e802/nativeimagetranscoder-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/8c472000c2d15b448a5c6a70df671359/imagepipeline-base-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0c5c65017db5f0b6b667957e293e9248/soloader-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/7b739f1afa81eadcca04f3eacf9e6be3/soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/6badb58a8772fbe9a6007d34a07c20e0/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e78281056f721161211dc389d0368ebb/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/86e12771a5917a6aeb12ec0603309e72/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/fc903de2afa801bb76a717858e1ed350/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/42c94ea2769c8f4dd2f8e40d6e1f60f0/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/f62edce5ffbbd97c5e262251ac67e1af/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/46bb0d1e2d3d56ad1d6ce5f8f8a333f0/fragment-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0d32eb8de1c69afa4f6b4f85f27ff705/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/25f7bee47f81da63b7fa88733e204639/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/022b917ea45fa9efb43fd512c32299a4/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5bd3072c5e2e7efeb9a5f17108c3a94b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/fad93f62bf5b814dd5f5a9ef137a12ad/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/40f42cf99deb398019a8b54f8c879fa3/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5c9ad6565ac58760fcabb355478312cd/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ff61b895aa59aae4868ddc2e74c00872/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/47c1a210fd494bdd1fcb0f676b47ddbd/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/71c6fde156c0108222374f4242b8f6c5/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c65d4d8b281e74f8e03f986df6785752/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b47d8af881465e65a11b71fc0111011c/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a937477e0ef8e9ccd6d050e770c02a99/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/cc9979729e9b9a00951696fd714e4a7a/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2004e1a77ed432d9b6df457f6128a134/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e11f95dd142b8a843ba9b4ee88101a92/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ec6f3421ae8976c2c7071f9f4c951f50/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/9f59168e332b8568e47e75aaf368a7ab/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/abefe7781f7bd2e6dcd8fc5ec8409821/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0aacfdf28f9b79743a1c4ad905aeb2e1/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/50dc65f2cd5bd8dd110ae97d85d94b16/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b1fdc20355d02d669ed12af5fb455104/ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -85,26 +85,26 @@ INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/
 		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:4:5-67
-MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:15:5-67
-MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/54fec94f1db356169b82f56255ba815e/flipper-0.54.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/54fec94f1db356169b82f56255ba815e/flipper-0.54.0/AndroidManifest.xml:15:5-67
 	android:name
 		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:4:22-64
 application
 ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:6:5-25:19
 MERGED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:6:5-25:19
-MERGED from [com.facebook.react:react-native:0.63.3] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/73903fdd3362d2d333d2cae68efece79/jetified-react-native-0.63.3/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.63.3] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/73903fdd3362d2d333d2cae68efece79/jetified-react-native-0.63.3/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c34148f30cbc3e974eff21cbfb6a112a/soloader-0.9.0/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c34148f30cbc3e974eff21cbfb6a112a/soloader-0.9.0/AndroidManifest.xml:11:5-20
-MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/863e0c3c6716935cd3657ad638fd992d/material-1.1.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/863e0c3c6716935cd3657ad638fd992d/material-1.1.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2786c84c1e653e40bd67508414ca298f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2786c84c1e653e40bd67508414ca298f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.react:react-native:0.63.3] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/94a86735098377eaa8f659abbfdbd3a2/jetified-react-native-0.63.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.3] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/94a86735098377eaa8f659abbfdbd3a2/jetified-react-native-0.63.3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/7b739f1afa81eadcca04f3eacf9e6be3/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/7b739f1afa81eadcca04f3eacf9e6be3/soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/6badb58a8772fbe9a6007d34a07c20e0/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/6badb58a8772fbe9a6007d34a07c20e0/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/71c6fde156c0108222374f4242b8f6c5/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/71c6fde156c0108222374f4242b8f6c5/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b47d8af881465e65a11b71fc0111011c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b47d8af881465e65a11b71fc0111011c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/71c6fde156c0108222374f4242b8f6c5/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:8:7-39
 		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:8:7-39
@@ -159,12 +159,12 @@ uses-sdk
 INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
-MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/bd2cab46fd45b530a274001375333ead/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/bd2cab46fd45b530a274001375333ead/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/dd7dfafbb0af41b4347f18654ea5c436/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
-MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/dd7dfafbb0af41b4347f18654ea5c436/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/54fec94f1db356169b82f56255ba815e/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/54fec94f1db356169b82f56255ba815e/flipper-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/cf53be8d5439a352e234a850e2e60e9c/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/cf53be8d5439a352e234a850e2e60e9c/flipper-network-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/bf561306667b36e263f3fba74c411e40/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/bf561306667b36e263f3fba74c411e40/flipper-fresco-plugin-0.54.0/AndroidManifest.xml:11:5-13:41
 MERGED from [:react-native-community_masked-view] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_masked-view] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-community_slider] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/slider/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
@@ -179,102 +179,102 @@ MERGED from [:react-native-screens] /Users/nguyenducminhnguyen/Desktop/GitHub/Sp
 MERGED from [:react-native-screens] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.63.3] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/73903fdd3362d2d333d2cae68efece79/jetified-react-native-0.63.3/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.63.3] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/73903fdd3362d2d333d2cae68efece79/jetified-react-native-0.63.3/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/37b6f551bc5ae153b0b627de8f563815/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [org.webkit:android-jsc:r245459] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/6dd6245206e34676e1ee3aa6ee0f68c9/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r245459] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/6dd6245206e34676e1ee3aa6ee0f68c9/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.3] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/94a86735098377eaa8f659abbfdbd3a2/jetified-react-native-0.63.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.3] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/94a86735098377eaa8f659abbfdbd3a2/jetified-react-native-0.63.3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3988366ed26c9047f8c81042e4ca5f4b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3988366ed26c9047f8c81042e4ca5f4b/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/be8641bfa53479d6e5cc058c010966bc/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/be8641bfa53479d6e5cc058c010966bc/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-linear-gradient] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-linear-gradient] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/40741ffe3de6a11d99116b4e82d60d46/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/40741ffe3de6a11d99116b4e82d60d46/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/03aa51752e7d7098a02114b07907dabd/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/03aa51752e7d7098a02114b07907dabd/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e9f56679cbe795a6f7c93e9a035f66f2/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e9f56679cbe795a6f7c93e9a035f66f2/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/559ddc4b7f576fedc63e05921b88e895/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/559ddc4b7f576fedc63e05921b88e895/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0288f1bca211d259126211029f92054c/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0288f1bca211d259126211029f92054c/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/766471e6648d662c31b10c1bbc5126fe/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/766471e6648d662c31b10c1bbc5126fe/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/57a87fccccbdbe36e69f72b01ce521f1/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/57a87fccccbdbe36e69f72b01ce521f1/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0abe31decb23fc939dbab3bf21d1ccec/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0abe31decb23fc939dbab3bf21d1ccec/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3b508a8e13388bdc4e88ee330cec4cdc/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3b508a8e13388bdc4e88ee330cec4cdc/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/104429b66e46c675401dada578683150/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/104429b66e46c675401dada578683150/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/fe90bfac000734a7d0d9c150b7915ff6/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/fe90bfac000734a7d0d9c150b7915ff6/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/34efa7b8fb78d46cf2b753de7fbfc5a5/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/34efa7b8fb78d46cf2b753de7fbfc5a5/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/237bbc58c0787eee6b78f947e2baeeaa/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/237bbc58c0787eee6b78f947e2baeeaa/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/65f592cbf7e10992754db73be6c6ba25/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/65f592cbf7e10992754db73be6c6ba25/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c34148f30cbc3e974eff21cbfb6a112a/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c34148f30cbc3e974eff21cbfb6a112a/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/863e0c3c6716935cd3657ad638fd992d/material-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/863e0c3c6716935cd3657ad638fd992d/material-1.1.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/1cb9b9ea592aa2ea85233be252327dcf/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b1b165607eae60d70e4267b97e24514b/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b1b165607eae60d70e4267b97e24514b/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/28888a6f6660db47b3788df392c672a7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/28888a6f6660db47b3788df392c672a7/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/efb592adf2592d134c27edc4a56e19d2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/efb592adf2592d134c27edc4a56e19d2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/8cd6316737e8f518184be95be51b9ee8/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/8cd6316737e8f518184be95be51b9ee8/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/37aaca75d3d19faa6fb296103cea95d8/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/37aaca75d3d19faa6fb296103cea95d8/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c062602fe4e1f75f724363688044d993/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c062602fe4e1f75f724363688044d993/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c99af001058cd5265376dded8456f828/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c99af001058cd5265376dded8456f828/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/40f1c5d439eea30faeaafe93e7bdf45f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/40f1c5d439eea30faeaafe93e7bdf45f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/faa15558a5d57e35e462c9e1f0248694/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/faa15558a5d57e35e462c9e1f0248694/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/89bcabef273c834c0566b445ed28172c/activity-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/89bcabef273c834c0566b445ed28172c/activity-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/4300f0cd89d6453d731712a999b6e53f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/4300f0cd89d6453d731712a999b6e53f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e0a79d4379c4eef3803202a497c19313/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e0a79d4379c4eef3803202a497c19313/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/820068d4be612586a05a9daff9be7b77/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/820068d4be612586a05a9daff9be7b77/transition-1.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/6bd464ed06f075f4e42b3fde6a89e60a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/6bd464ed06f075f4e42b3fde6a89e60a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/639e914bfc1efa21e36199d3ff2c5eef/core-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3b41f2ef3d4a30256bbd9d1017371108/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3b41f2ef3d4a30256bbd9d1017371108/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2786c84c1e653e40bd67508414ca298f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2786c84c1e653e40bd67508414ca298f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/db36fbbf4470b1ce63fe644e40ae81d3/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/db36fbbf4470b1ce63fe644e40ae81d3/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/304e6293e0820147023aa187c0f862e1/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/304e6293e0820147023aa187c0f862e1/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/7ce8a2eb9e81825ec9bcc373c597a746/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/7ce8a2eb9e81825ec9bcc373c597a746/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/124ee19a63f3e171c196264ecc845daa/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/124ee19a63f3e171c196264ecc845daa/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/4ce17f8b4390b23da9bedc3cee010ec1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/4ce17f8b4390b23da9bedc3cee010ec1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/4da6ddd3c71dbaec92b0fdf3bbca4ce7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/4da6ddd3c71dbaec92b0fdf3bbca4ce7/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2ef959591ee3dfd7e7d0f130ebacb270/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2ef959591ee3dfd7e7d0f130ebacb270/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/babedcb26ba2505096ea9fb87ec93180/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/babedcb26ba2505096ea9fb87ec93180/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/10d4d5b619a3fbd216a9a3bb63af471f/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/10d4d5b619a3fbd216a9a3bb63af471f/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c114d4501470930b3986c4f9bd2da0fd/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c114d4501470930b3986c4f9bd2da0fd/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/73d51b0a51f6335b87e1488851776f1d/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/73d51b0a51f6335b87e1488851776f1d/flipper-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/cd738c228ed446ca90d7fb46fbafb4ce/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/cd738c228ed446ca90d7fb46fbafb4ce/stetho-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0446045e5f655d276226e524895489aa/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0446045e5f655d276226e524895489aa/fresco-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/cca6a8ec91bb5ac723b7c2f2319dc957/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/cca6a8ec91bb5ac723b7c2f2319dc957/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/473c9280acfa0ede01d9aa9b4a50d10c/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/473c9280acfa0ede01d9aa9b4a50d10c/drawee-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2203257ab63a0e321d9f37703a00821a/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2203257ab63a0e321d9f37703a00821a/nativeimagefilters-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a2c814df604d92a74569f993c02f27fa/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a2c814df604d92a74569f993c02f27fa/memory-type-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/170270e998ebf78cf200c0e241cb3f09/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/170270e998ebf78cf200c0e241cb3f09/memory-type-java-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/49d0d1b4cb0e22b9c22fada6037d7f7f/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/49d0d1b4cb0e22b9c22fada6037d7f7f/imagepipeline-native-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/82627c9925c1e4d47f8a30f00d736856/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/82627c9925c1e4d47f8a30f00d736856/memory-type-ashmem-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/f531f65620f617dcc573c4f2e041fa9c/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/f531f65620f617dcc573c4f2e041fa9c/imagepipeline-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ffba56be7a454ca3bf4bf76070e7e802/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ffba56be7a454ca3bf4bf76070e7e802/nativeimagetranscoder-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/8c472000c2d15b448a5c6a70df671359/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/8c472000c2d15b448a5c6a70df671359/imagepipeline-base-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0c5c65017db5f0b6b667957e293e9248/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0c5c65017db5f0b6b667957e293e9248/soloader-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/7b739f1afa81eadcca04f3eacf9e6be3/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/7b739f1afa81eadcca04f3eacf9e6be3/soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/6badb58a8772fbe9a6007d34a07c20e0/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/6badb58a8772fbe9a6007d34a07c20e0/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e78281056f721161211dc389d0368ebb/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e78281056f721161211dc389d0368ebb/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/86e12771a5917a6aeb12ec0603309e72/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/86e12771a5917a6aeb12ec0603309e72/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/fc903de2afa801bb76a717858e1ed350/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/fc903de2afa801bb76a717858e1ed350/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/42c94ea2769c8f4dd2f8e40d6e1f60f0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/42c94ea2769c8f4dd2f8e40d6e1f60f0/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/f62edce5ffbbd97c5e262251ac67e1af/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/f62edce5ffbbd97c5e262251ac67e1af/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/46bb0d1e2d3d56ad1d6ce5f8f8a333f0/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/46bb0d1e2d3d56ad1d6ce5f8f8a333f0/fragment-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0d32eb8de1c69afa4f6b4f85f27ff705/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0d32eb8de1c69afa4f6b4f85f27ff705/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/25f7bee47f81da63b7fa88733e204639/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/25f7bee47f81da63b7fa88733e204639/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/022b917ea45fa9efb43fd512c32299a4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/022b917ea45fa9efb43fd512c32299a4/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5bd3072c5e2e7efeb9a5f17108c3a94b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5bd3072c5e2e7efeb9a5f17108c3a94b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/fad93f62bf5b814dd5f5a9ef137a12ad/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/fad93f62bf5b814dd5f5a9ef137a12ad/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/40f42cf99deb398019a8b54f8c879fa3/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/40f42cf99deb398019a8b54f8c879fa3/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5c9ad6565ac58760fcabb355478312cd/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5c9ad6565ac58760fcabb355478312cd/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ff61b895aa59aae4868ddc2e74c00872/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ff61b895aa59aae4868ddc2e74c00872/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/47c1a210fd494bdd1fcb0f676b47ddbd/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/47c1a210fd494bdd1fcb0f676b47ddbd/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/71c6fde156c0108222374f4242b8f6c5/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/71c6fde156c0108222374f4242b8f6c5/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c65d4d8b281e74f8e03f986df6785752/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c65d4d8b281e74f8e03f986df6785752/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b47d8af881465e65a11b71fc0111011c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b47d8af881465e65a11b71fc0111011c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a937477e0ef8e9ccd6d050e770c02a99/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a937477e0ef8e9ccd6d050e770c02a99/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/cc9979729e9b9a00951696fd714e4a7a/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/cc9979729e9b9a00951696fd714e4a7a/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2004e1a77ed432d9b6df457f6128a134/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2004e1a77ed432d9b6df457f6128a134/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e11f95dd142b8a843ba9b4ee88101a92/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e11f95dd142b8a843ba9b4ee88101a92/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ec6f3421ae8976c2c7071f9f4c951f50/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ec6f3421ae8976c2c7071f9f4c951f50/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/9f59168e332b8568e47e75aaf368a7ab/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/9f59168e332b8568e47e75aaf368a7ab/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/abefe7781f7bd2e6dcd8fc5ec8409821/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/abefe7781f7bd2e6dcd8fc5ec8409821/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0aacfdf28f9b79743a1c4ad905aeb2e1/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0aacfdf28f9b79743a1c4ad905aeb2e1/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/50dc65f2cd5bd8dd110ae97d85d94b16/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/50dc65f2cd5bd8dd110ae97d85d94b16/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b1fdc20355d02d669ed12af5fb455104/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b1fdc20355d02d669ed12af5fb455104/ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -288,6 +288,6 @@ ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src
 	android:name
 		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/debug/AndroidManifest.xml:5:22-75
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:5-76
+ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/54fec94f1db356169b82f56255ba815e/flipper-0.54.0/AndroidManifest.xml:16:5-76
 	android:name
-		ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/1c7787ec82631e0394972c76bdabe608/flipper-0.54.0/AndroidManifest.xml:16:22-73
+		ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/54fec94f1db356169b82f56255ba815e/flipper-0.54.0/AndroidManifest.xml:16:22-73

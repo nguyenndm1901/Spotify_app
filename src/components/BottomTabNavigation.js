@@ -4,6 +4,7 @@ import { HomeStackNavigation, LibraryStacknavigation, SearchStackNavigation, Spo
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 MaterialIcons.loadFont();
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
+import { Platform } from "react-native";
 FontAwesome.loadFont();
 
 const Tab = createBottomTabNavigator();
@@ -14,9 +15,20 @@ const BottomTabNavigation = () => {
             tabBarOptions={{
                 activeTintColor: '#ffffff',
                 inactiveTintColor: '#707070',
-                style: { backgroundColor: '#232323', height: 80 },
-                labelStyle: {fontSize: 15},
-                
+                style: {
+                    backgroundColor: '#232323',
+                    ...Platform.select({
+                        ios: {
+                            height: 90,
+                        },
+                        android:{
+                            height: 62,
+                            paddingBottom: 5,
+                        }
+                    })
+                },
+                labelStyle: { fontSize: 15 },
+
             }}>
             <Tab.Screen
                 name="Home"
