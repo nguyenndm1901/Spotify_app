@@ -41,7 +41,9 @@ const styles = StyleSheet.create({
 const slideList = Array.from({ length: 5 }).map((_, i) => {
   return {
     id: i,
-    image: require(`../components/assets/premium${i}.png`),
+    //image: require(`../components/assets/premium${i}.png`),
+    image: `https://picsum.photos/1440/2842?random=${i}`,
+
   };
 });
 
