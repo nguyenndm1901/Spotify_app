@@ -1,4 +1,4 @@
-#Sat Nov 21 14:26:39 ICT 2020
-base.0=/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+#Fri Dec 04 01:54:13 ICT 2020
+base.0=/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Spotify_app.iml" filepath="$PROJECT_DIR$/.idea/modules/Spotify_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/728366117/Spotify_app.@react-native-community_slider.iml" filepath="$PROJECT_DIR$/.idea/modules/728366117/Spotify_app.@react-native-community_slider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Spotify_app.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Spotify_app.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-866151546/Spotify_app.react-native-app-auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-866151546/Spotify_app.react-native-app-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1294910301/Spotify_app.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1294910301/Spotify_app.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/728366117/Spotify_app.react-native-community_slider.iml" filepath="$PROJECT_DIR$/.idea/modules/728366117/Spotify_app.react-native-community_slider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-392943212/Spotify_app.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-392943212/Spotify_app.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/227007910/Spotify_app.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/227007910/Spotify_app.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1937360904/Spotify_app.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1937360904/Spotify_app.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/990063869/Spotify_app.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/990063869/Spotify_app.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/696661333/Spotify_app.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/696661333/Spotify_app.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/480278210/Spotify_app.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/480278210/Spotify_app.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

@@ -15,6 +15,8 @@ import java.util.ArrayList;
 import org.reactnative.maskedview.RNCMaskedViewPackage;
 // @react-native-community/slider
 import com.reactnativecommunity.slider.ReactSliderPackage;
+// react-native-app-auth
+import com.rnappauth.RNAppAuthPackage;
 // react-native-gesture-handler
 import com.swmansion.gesturehandler.react.RNGestureHandlerPackage;
 // react-native-linear-gradient
@@ -74,6 +76,7 @@ public class PackageList {
       new MainReactPackage(mConfig),
       new RNCMaskedViewPackage(),
       new ReactSliderPackage(),
+      new RNAppAuthPackage(),
       new RNGestureHandlerPackage(),
       new LinearGradientPackage(),
       new ReanimatedPackage(),
