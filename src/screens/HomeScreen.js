@@ -3,7 +3,7 @@ import {
   StyleSheet,
   View,
   ScrollView,
-  StatusBar
+  StatusBar,
 } from 'react-native';
 import Album1 from '../components/Album1';
 import Album2 from '../components/Album2';
@@ -25,33 +25,32 @@ const styles = StyleSheet.create({
   },
 });
 
-const HomeScreen = ({navigation}) => {
+const HomeScreen = ({ navigation }) => {
   return (
     <ScrollView vertical={true} style={styles.scrollViewSetting}>
       <LinearGradient
-                colors={['#783C50', 'black']}
-                style={styles.linearGradient}
-                start={{ x: 0.5, y: 0 }}
-                end={{ x: 1, y: 0.5 }}
-                >
-      <View style={styles.screenCover}>
-        <StatusBar barStyle={"light-content"} translucent={true} />
-        <View>
-          <FontAwesome
-            name="cog"
-            size={24}
-            color="#969696"
-            style={styles.settingIcon}
-            onPress={() => {
-              navigation.navigate("SettingsScreen");
-            }}
-          />
+        colors={['#783C50', 'black']}
+        start={{ x: 0.5, y: 0 }}
+        end={{ x: 1, y: 0.5 }}
+      >
+        <View style={styles.screenCover}>
+          <StatusBar barStyle={"light-content"} translucent={true} backgroundColor='transparent' />
+          <View>
+            <FontAwesome
+              name="cog"
+              size={24}
+              color="#969696"
+              style={styles.settingIcon}
+              onPress={() => {
+                navigation.navigate("SettingsScreen");
+              }}
+            />
+          </View>
+          <View>
+            <Album1 />
+            <Album2 />
+          </View>
         </View>
-        <View>
-          <Album1 />
-          <Album2 />
-        </View>
-      </View>
       </LinearGradient>
     </ScrollView>
   );

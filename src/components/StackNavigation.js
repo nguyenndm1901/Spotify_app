@@ -1,11 +1,12 @@
 import React from "react";
 import { createStackNavigator } from "@react-navigation/stack";
-
 import HomeScreen from "../screens/HomeScreen";
 import Settings from "../screens/Settings";
 import SearchScreen from "../screens/SearchScreen";
 import Profile from "../screens/Profile"
 import Premium from '../screens/Premium'
+import DailyMix1 from "../components/DailyMix1"
+import Album1 from '../components/Album1'
 import TopTabNavigation from './TopTabNavigation'
 
 const Stack = createStackNavigator();
@@ -38,7 +39,16 @@ const HomeStackNavigation = () => {
                     headerTintColor: 'white',
                     gestureEnabled: false,
                 }}
-                name="Profile" component={Profile} />
+                name="Profile" component={DailyMix1} />
+            <Stack.Screen
+                options={{
+                    title: '',
+                    headerTransparent: true,
+                    headerBackTitle: ' ',
+                    headerTintColor: 'white',
+                    gestureEnabled: false,
+                }}
+                name="DailyMix1" component={DailyMix1} />
         </Stack.Navigator>
     );
 };

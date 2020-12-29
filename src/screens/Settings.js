@@ -43,8 +43,7 @@ const Settings = ({ navigation }) => {
             <View style={styles.screenCover}>
                 <StatusBar barStyle={"light-content"} translucent={true} />
                 <View style={styles.profileBarView}>
-                    <TouchableOpacity
-                        onPress={() => { navigation.navigate("Profile") }}>
+                    <TouchableOpacity onPress={() => { navigation.navigate("Profile") }}>
                         <View style={styles.profileBar}>
                             <Image source={image} style={styles.imageStyle} />
                             <ProfileName
