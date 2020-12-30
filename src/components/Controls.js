@@ -1,25 +1,8 @@
 import React, { Component } from 'react';
+import * as React from 'react';
+import { View, Text, StyleSheet, Image, TouchableOpacity } from 'react-native';
 
-import {
-  View,
-  Text,
-  StyleSheet,
-  Image,
-  TouchableOpacity,
-} from 'react-native';
-
-const Controls = ({
-  paused,
-  shuffleOn,
-  repeatOn,
-  onPressPlay,
-  onPressPause,
-  onBack,
-  onForward,
-  onPressShuffle,
-  onPressRepeat,
-  forwardDisabled,
-}) => (
+const Controls = ({ paused, shuffleOn, repeatOn, onPressPlay, onPressPause, onBack, onForward, onPressShuffle, onPressRepeat, forwardDisabled }) => (
   <View style={styles.container}>
     <TouchableOpacity activeOpacity={0.0} onPress={onPressShuffle}>
       <Image style={[styles.secondaryControl, shuffleOn ? [] : styles.off]}
