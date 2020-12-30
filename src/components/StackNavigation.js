@@ -6,7 +6,7 @@ import SearchScreen from "../screens/SearchScreen";
 import Profile from "../screens/Profile"
 import Premium from '../screens/Premium'
 import DailyMix1 from "../components/DailyMix1"
-import Album1 from '../components/Album1'
+import PlayingScreen from '../screens/PlayingScreen'
 import TopTabNavigation from './TopTabNavigation'
 
 const Stack = createStackNavigator();
@@ -40,7 +40,7 @@ const HomeStackNavigation = () => {
                     gestureEnabled: false,
                 }}
                 name="Profile" component={DailyMix1} />
-            <Stack.Screen
+                <Stack.Screen
                 options={{
                     title: '',
                     headerTransparent: true,
@@ -49,6 +49,15 @@ const HomeStackNavigation = () => {
                     gestureEnabled: false,
                 }}
                 name="DailyMix1" component={DailyMix1} />
+            <Stack.Screen
+                options={{
+                    title: '',
+                    headerTransparent: true,
+                    headerBackTitle: ' ',
+                    headerTintColor: 'white',
+                    gestureEnabled: false,
+                }}
+                name="NowPlaying" component={PlayingScreen} />
         </Stack.Navigator>
     );
 };
