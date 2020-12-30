@@ -39,7 +39,7 @@ const HomeStackNavigation = () => {
                     headerTintColor: 'white',
                     gestureEnabled: false,
                 }}
-                name="Profile" component={DailyMix1} />
+                name="Profile" component={Profile} />
                 <Stack.Screen
                 options={{
                     title: '',

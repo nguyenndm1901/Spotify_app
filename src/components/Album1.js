@@ -36,7 +36,7 @@ const Album1 = ({ navigation }) => {
         <View style={styles.listAlbum}>
           {/*  */}
           <TouchableOpacity
-            onPress={() => navigation.navigate("DailyMix1")}>
+            onPress={() => navigation.navigate("Profile")}>
             <View>
               <AlbumItem
                 name="Daily Mix 1"
