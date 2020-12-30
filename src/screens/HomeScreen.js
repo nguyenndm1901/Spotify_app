@@ -47,7 +47,7 @@ const HomeScreen = ({ navigation }) => {
             />
           </View>
           <View>
-            <Album1 {...this.props} />
+            <Album1 />
             <Album2 />
           </View>
         </View>

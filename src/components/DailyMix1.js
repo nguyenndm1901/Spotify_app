@@ -12,7 +12,7 @@ import LinearGradient from 'react-native-linear-gradient';
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
 FontAwesome.loadFont();
 
-const DailyMix1 = ({ navigation }) => {
+const DailyMix1 = ({ navigation = this.props.navigation }) => {
     return (
         <View style={styles.background}>
             <StatusBar barStyle={"light-content"} translucent={true} />
