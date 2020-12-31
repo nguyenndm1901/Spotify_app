@@ -1,58 +1,59 @@
 import React, { Component } from 'react';
-import { 
-    StyleSheet, 
-    Image, 
-    View, 
-    Text, 
-    Dimensions, 
-    ScrollView, 
-    StatusBar,
-    TouchableOpacity,
-  } from 'react-native';
+import {
+  StyleSheet,
+  Image,
+  View,
+  Text,
+  Dimensions,
+  ScrollView,
+  StatusBar,
+  TouchableOpacity,
+} from 'react-native';
+import Video from 'react-native-video';
 
 const Header = ({
-    message,
-    onDownPress,
-    onQueuePress,
-    onMessagePress,
+  message,
+  onDownPress,
+  onQueuePress,
+  onMessagePress,
 }) => (
-    <View style={stylesHeader.container}>
-        <TouchableOpacity onPress={onDownPress}>
-            <Image style={stylesHeader.button}
-                source={require('../components/assets/icon/ic_keyboard_arrow_down_white.png')} />
-        </TouchableOpacity>
-        <Text onPress={onMessagePress}
-            style={stylesHeader.message}>{message.toUpperCase()}</Text>
-        <TouchableOpacity onPress={onQueuePress}>
-            <Image style={stylesHeader.button}
-                source={require('../components/assets/icon/ic_queue_music_white.png')} />
-        </TouchableOpacity>
-    </View>
+  <View style={stylesHeader.container}>
+    <TouchableOpacity onPress={onDownPress}>
+      <Image style={stylesHeader.button}
+        source={require('../components/assets/icon/ic_keyboard_arrow_down_white.png')} />
+    </TouchableOpacity>
+    <Text onPress={onMessagePress}
+      style={stylesHeader.message}>{message.toUpperCase()}</Text>
+    <TouchableOpacity onPress={onQueuePress}>
+      <Image style={stylesHeader.button}
+        source={require('../components/assets/icon/ic_queue_music_white.png')} />
+    </TouchableOpacity>
+  </View>
 );
 
 const stylesHeader = StyleSheet.create({
-    container: {
-        height: 72,
-        paddingTop: 20,
-        paddingLeft: 12,
-        paddingRight: 12,
-        flexDirection: 'row',
-    },
-    message: {
-        flex: 1,
-        textAlign: 'center',
-        color: 'rgba(255, 255, 255, 0.72)',
-        fontWeight: 'bold',
-        fontSize: 10,
-    },
-    button: {
-        opacity: 0.72
-    }
+  container: {
+    height: 72,
+    paddingTop: 20,
+    paddingLeft: 12,
+    paddingRight: 12,
+    flexDirection: 'row',
+  },
+  message: {
+    flex: 1,
+    textAlign: 'center',
+    color: 'rgba(255, 255, 255, 0.72)',
+    fontWeight: 'bold',
+    fontSize: 10,
+  },
+  button: {
+    opacity: 0.72
+  }
 });
 
 var Slider = require('react-native-slider').default;
 
-function pad(n, width, z=0) {
+function pad(n, width, z = 0) {
   n = n + '';
   return n.length >= width ? n : new Array(width - n.length + 1).join(z) + n;
 }
@@ -72,12 +73,12 @@ const SeekBar = ({
   const remaining = minutesAndSeconds(trackLength - currentPosition);
   return (
     <View style={stylesSeekBar.container}>
-      <View style={{flexDirection: 'row'}}>
+      <View style={{ flexDirection: 'row' }}>
         <Text style={stylesSeekBar.text}>
           {elapsed[0] + ":" + elapsed[1]}
         </Text>
-        <View style={{flex: 1}} />
-        <Text style={[stylesSeekBar.text, {width: 40}]}>
+        <View style={{ flex: 1 }} />
+        <Text style={[stylesSeekBar.text, { width: 40 }]}>
           {trackLength > 1 && "-" + remaining[0] + ":" + remaining[1]}
         </Text>
       </View>
@@ -90,7 +91,7 @@ const SeekBar = ({
         minimumTrackTintColor='#fff'
         maximumTrackTintColor='rgba(255, 255, 255, 0.14)'
         thumbStyle={stylesSeekBar.thumb}
-        trackStyle={stylesSeekBar.track}/>
+        trackStyle={stylesSeekBar.track} />
     </View>
   );
 };
@@ -117,189 +118,315 @@ const stylesSeekBar = StyleSheet.create({
   text: {
     color: 'rgba(255, 255, 255, 0.72)',
     fontSize: 12,
-    textAlign:'center',
+    textAlign: 'center',
   }
 });
 
 const Controls = ({ paused, shuffleOn, repeatOn, onPressPlay, onPressPause, onBack, onForward, onPressShuffle, onPressRepeat, forwardDisabled }) => (
-    <View style={stylesControl.container}>
-      <TouchableOpacity activeOpacity={0.0} onPress={onPressShuffle}>
-        <Image style={[stylesControl.secondaryControl, shuffleOn ? [] : stylesControl.off]}
-          source={require('../components/assets/icon/ic_shuffle_white.png')} />
-      </TouchableOpacity>
-      <View style={{ width: 40 }} />
-      <TouchableOpacity onPress={onBack}>
-        <Image source={require('../components/assets/icon/ic_skip_previous_white_36pt.png')} />
-      </TouchableOpacity>
-      <View style={{ width: 20 }} />
-      {!paused ?
-        <TouchableOpacity onPress={onPressPause}>
-          <View style={stylesControl.playButton}>
-            <Image source={require('../components/assets/icon/ic_pause_white_48pt.png')} />
-          </View>
-        </TouchableOpacity> :
-        <TouchableOpacity onPress={onPressPlay}>
-          <View style={stylesControl.playButton}>
-            <Image source={require('../components/assets/icon/ic_play_arrow_white_48pt.png')} />
-          </View>
-        </TouchableOpacity>
-      }
-      <View style={{ width: 20 }} />
-      <TouchableOpacity onPress={onForward}
-        disabled={forwardDisabled}>
-        <Image style={[forwardDisabled && { opacity: 0.3 }]}
-          source={require('../components/assets/icon/ic_skip_next_white_36pt.png')} />
-      </TouchableOpacity>
-      <View style={{ width: 40 }} />
-      <TouchableOpacity activeOpacity={0.0} onPress={onPressRepeat}>
-        <Image style={[stylesControl.secondaryControl, repeatOn ? [] : stylesControl.off]}
-          source={require('../components/assets/icon/ic_repeat_white.png')} />
-      </TouchableOpacity>
-    </View>
-  );
-  
-  const stylesControl = StyleSheet.create({
-    container: {
-      flexDirection: 'row',
-      alignItems: 'center',
-      justifyContent: 'center',
-      paddingTop: 8,
-    },
-    playButton: {
-      height: 72,
-      width: 72,
-      borderWidth: 1,
-      borderColor: 'white',
-      borderRadius: 72 / 2,
-      alignItems: 'center',
-      justifyContent: 'center',
-    },
-    secondaryControl: {
-      height: 18,
-      width: 18,
-    },
-    off: {
-      opacity: 0.30,
-    }
-  });
-
-  const TrackDetails = ({
-    title,
-    artist,
-    onAddPress,
-    onMorePress,
-    onTitlePress,
-    onArtistPress,
-  }) => (
-    <View style={stylesTrack.container}>
-      <TouchableOpacity onPress={onAddPress}>
-        <Image style={stylesTrack.button}
-          source={require('../components/assets/icon/ic_add_circle_outline_white.png')} />
-      </TouchableOpacity>
-      <View style={stylesTrack.detailsWrapper}>
-        <Text style={stylesTrack.title} onPress={onTitlePress}>{title}</Text>
-        <Text style={stylesTrack.artist} onPress={onArtistPress}>{artist}</Text>
-      </View>
-      <TouchableOpacity onPress={onMorePress}>
-        <View style={stylesTrack.moreButton}>
-          <Image style={stylesTrack.moreButtonIcon}
-            source={require('../components/assets/icon/ic_more_horiz_white.png')} />
+  <View style={stylesControl.container}>
+    <TouchableOpacity activeOpacity={0.0} onPress={onPressShuffle}>
+      <Image style={[stylesControl.secondaryControl, shuffleOn ? [] : stylesControl.off]}
+        source={require('../components/assets/icon/ic_shuffle_white.png')} />
+    </TouchableOpacity>
+    <View style={{ width: 40 }} />
+    <TouchableOpacity onPress={onBack}>
+      <Image source={require('../components/assets/icon/ic_skip_previous_white_36pt.png')} />
+    </TouchableOpacity>
+    <View style={{ width: 20 }} />
+    {!paused ?
+      <TouchableOpacity onPress={onPressPause}>
+        <View style={stylesControl.playButton}>
+          <Image source={require('../components/assets/icon/ic_pause_white_48pt.png')} />
+        </View>
+      </TouchableOpacity> :
+      <TouchableOpacity onPress={onPressPlay}>
+        <View style={stylesControl.playButton}>
+          <Image source={require('../components/assets/icon/ic_play_arrow_white_48pt.png')} />
         </View>
       </TouchableOpacity>
-    </View>
-  );
-  
-  const stylesTrack = StyleSheet.create({
-    container: {
-      paddingTop: 24,
-      flexDirection: 'row',
-      paddingLeft: 20,
-      alignItems: 'center',
-      paddingRight: 20,
-    },
-    detailsWrapper: {
-      justifyContent: 'center',
-      alignItems: 'center',
-      flex: 1,
-    },
-    title: {
-      fontSize: 16,
-      fontWeight: 'bold',
-      color: 'white',
-      textAlign: 'center',
-    },
-    artist: {
-      color: 'rgba(255, 255, 255, 0.72)',
-      fontSize: 12,
-      marginTop: 4,
-    },
-    button: {
-      opacity: 0.72,
-    },
-    moreButton: {
-      borderColor: 'rgb(255, 255, 255)',
-      borderWidth: 2,
-      opacity: 0.72,
-      borderRadius: 10,
-      width: 20,
-      height: 20,
-      alignItems: 'center',
-      justifyContent: 'center',
-    },
-    moreButtonIcon: {
-      height: 17,
-      width: 17,
     }
-  });
+    <View style={{ width: 20 }} />
+    <TouchableOpacity onPress={onForward}
+      disabled={forwardDisabled}>
+      <Image style={[forwardDisabled && { opacity: 0.3 }]}
+        source={require('../components/assets/icon/ic_skip_next_white_36pt.png')} />
+    </TouchableOpacity>
+    <View style={{ width: 40 }} />
+    <TouchableOpacity activeOpacity={0.0} onPress={onPressRepeat}>
+      <Image style={[stylesControl.secondaryControl, repeatOn ? [] : stylesControl.off]}
+        source={require('../components/assets/icon/ic_repeat_white.png')} />
+    </TouchableOpacity>
+  </View>
+);
 
-  const AlbumArt = ({
-    url,
-    onPress
-  }) => (
-    <View style={stylesAlbum.container}>
-      <TouchableOpacity onPress={onPress}>
-        <Image
-          style={stylesAlbum.image}
-          source={{uri: url}}
-        />
-      </TouchableOpacity>
+const stylesControl = StyleSheet.create({
+  container: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingTop: 8,
+  },
+  playButton: {
+    height: 72,
+    width: 72,
+    borderWidth: 1,
+    borderColor: 'white',
+    borderRadius: 72 / 2,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  secondaryControl: {
+    height: 18,
+    width: 18,
+  },
+  off: {
+    opacity: 0.30,
+  }
+});
+
+const TrackDetails = ({
+  title,
+  artist,
+  onAddPress,
+  onMorePress,
+  onTitlePress,
+  onArtistPress,
+}) => (
+  <View style={stylesTrack.container}>
+    <TouchableOpacity onPress={onAddPress}>
+      <Image style={stylesTrack.button}
+        source={require('../components/assets/icon/ic_add_circle_outline_white.png')} />
+    </TouchableOpacity>
+    <View style={stylesTrack.detailsWrapper}>
+      <Text style={stylesTrack.title} onPress={onTitlePress}>{title}</Text>
+      <Text style={stylesTrack.artist} onPress={onArtistPress}>{artist}</Text>
     </View>
-  );
-  
-  const { width, height } = Dimensions.get('window');
-  const imageSize = width - 48;
-  
-  const stylesAlbum = StyleSheet.create({
-    container: {
-      paddingLeft: 24,
-      paddingRight: 24,
-    },
-    image: {
-      width: imageSize,
-      height: imageSize,
-    },
-  });
+    <TouchableOpacity onPress={onMorePress}>
+      <View style={stylesTrack.moreButton}>
+        <Image style={stylesTrack.moreButtonIcon}
+          source={require('../components/assets/icon/ic_more_horiz_white.png')} />
+      </View>
+    </TouchableOpacity>
+  </View>
+);
 
-class PlayingScreen extends Component {
-    render() {
-        return (
-            <View style={styles.container}>
-                <Header message="Playing from Charts" />
-                <AlbumArt url="http://36.media.tumblr.com/14e9a12cd4dca7a3c3c4fe178b607d27/tumblr_nlott6SmIh1ta3rfmo1_1280.jpg" />
-                <TrackDetails title="Stressed Out"
-                    artist="Twenty One Pilots" />
-                <SeekBar trackLength={204} currentPosition={0} />
-                <Controls />
-            </View>
-        )
+const stylesTrack = StyleSheet.create({
+  container: {
+    paddingTop: 24,
+    flexDirection: 'row',
+    paddingLeft: 20,
+    alignItems: 'center',
+    paddingRight: 20,
+  },
+  detailsWrapper: {
+    justifyContent: 'center',
+    alignItems: 'center',
+    flex: 1,
+  },
+  title: {
+    fontSize: 16,
+    fontWeight: 'bold',
+    color: 'white',
+    textAlign: 'center',
+  },
+  artist: {
+    color: 'rgba(255, 255, 255, 0.72)',
+    fontSize: 12,
+    marginTop: 4,
+  },
+  button: {
+    opacity: 0.72,
+  },
+  moreButton: {
+    borderColor: 'rgb(255, 255, 255)',
+    borderWidth: 2,
+    opacity: 0.72,
+    borderRadius: 10,
+    width: 20,
+    height: 20,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  moreButtonIcon: {
+    height: 17,
+    width: 17,
+  }
+});
+
+const AlbumArt = ({
+  url,
+  onPress
+}) => (
+  <View style={stylesAlbum.container}>
+    <TouchableOpacity onPress={onPress}>
+      <Image
+        style={stylesAlbum.image}
+        source={{ uri: url }}
+      />
+    </TouchableOpacity>
+  </View>
+);
+
+const { width, height } = Dimensions.get('window');
+const imageSize = width - 48;
+
+const stylesAlbum = StyleSheet.create({
+  container: {
+    paddingLeft: 24,
+    paddingRight: 24,
+  },
+  image: {
+    width: imageSize,
+    height: imageSize,
+  },
+});
+
+class Player extends Component {
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      paused: true,
+      totalLength: 1,
+      currentPosition: 0,
+      selectedTrack: 0,
+      repeatOn: false,
+      shuffleOn: false,
+    };
+  }
+
+  setDuration(data) {
+    // console.log(totalLength);
+    this.setState({ totalLength: Math.floor(data.duration) });
+  }
+
+  setTime(data) {
+    //console.log(data);
+    this.setState({ currentPosition: Math.floor(data.currentTime) });
+  }
+
+  seek(time) {
+    time = Math.round(time);
+    this.refs.audioElement && this.refs.audioElement.seek(time);
+    this.setState({
+      currentPosition: time,
+      paused: false,
+    });
+  }
+
+  onBack() {
+    if (this.state.currentPosition < 10 && this.state.selectedTrack > 0) {
+      this.refs.audioElement && this.refs.audioElement.seek(0);
+      this.setState({ isChanging: true });
+      setTimeout(() => this.setState({
+        currentPosition: 0,
+        paused: false,
+        totalLength: 1,
+        isChanging: false,
+        selectedTrack: this.state.selectedTrack - 1,
+      }), 0);
+    } else {
+      this.refs.audioElement.seek(0);
+      this.setState({
+        currentPosition: 0,
+      });
     }
+  }
+
+  onForward() {
+    if (this.state.selectedTrack < this.props.tracks.length - 1) {
+      this.refs.audioElement && this.refs.audioElement.seek(0);
+      this.setState({ isChanging: true });
+      setTimeout(() => this.setState({
+        currentPosition: 0,
+        totalLength: 1,
+        paused: false,
+        isChanging: false,
+        selectedTrack: this.state.selectedTrack + 1,
+      }), 0);
+    }
+  }
+
+  render() {
+    const track = this.props.tracks[this.state.selectedTrack];
+    const video = this.state.isChanging ? null : (
+      <Video source={{ uri: track.audioUrl }} // Can be a URL or a local file.
+        ref="audioElement"
+        paused={this.state.paused}               // Pauses playback entirely.
+        resizeMode="cover"           // Fill the whole screen at aspect ratio.
+        repeat={true}                // Repeat forever.
+        onLoadStart={this.loadStart} // Callback when video starts to load
+        onLoad={this.setDuration.bind(this)}    // Callback when video loads
+        onProgress={this.setTime.bind(this)}    // Callback every ~250ms with currentTime
+        onEnd={this.onEnd}           // Callback when playback finishes
+        onError={this.videoError}    // Callback when video cannot be loaded
+        style={styles.audioElement} />
+    );
+
+    return (
+      <View style={styles.container}>
+        <View style={{ top: '10%' }}>
+          <Header message="Playing from Charts" />
+          <AlbumArt url={track.albumArtUrl} />
+          <TrackDetails title={track.title} artist={track.artist} />
+          <SeekBar
+            onSeek={this.seek.bind(this)}
+            trackLength={this.state.totalLength}
+            onSlidingStart={() => this.setState({ paused: true })}
+            currentPosition={this.state.currentPosition} />
+          <Controls
+          onPressRepeat={() => this.setState({repeatOn : !this.state.repeatOn})}
+          repeatOn={this.state.repeatOn}
+          shuffleOn={this.state.shuffleOn}
+          forwardDisabled={this.state.selectedTrack === this.props.tracks.length - 1}
+          onPressShuffle={() => this.setState({shuffleOn: !this.state.shuffleOn})}
+          onPressPlay={() => this.setState({paused: false})}
+          onPressPause={() => this.setState({paused: true})}
+          onBack={this.onBack.bind(this)}
+          onForward={this.onForward.bind(this)}
+          paused={this.state.paused}/>
+        {video}
+        </View>
+      </View>
+    )
+  }
+}
+
+export const TRACKS = [
+  {
+    title: 'Fur Elise',
+    artist: 'Beethoven',
+    albumArtUrl: "https://m.media-amazon.com/images/I/71TJHr9h7iL._SS500_.jpg",
+    audioUrl: "http://russprince.com/hobbies/files/13%20Beethoven%20-%20Fur%20Elise.mp3",
+  },
+  {
+    title: 'Love Yourself',
+    artist: 'Justin Bieber',
+    albumArtUrl: "http://arrestedmotion.com/wp-content/uploads/2015/10/JB_Purpose-digital-deluxe-album-cover_lr.jpg",
+    audioUrl: 'https://www.dropbox.com/s/0twb3q49j453prr/Imagine Dragons - Birds (Animated Video).mp3',
+  },
+  {
+    title: 'Hotline Bling',
+    artist: 'Drake',
+    albumArtUrl: 'https://upload.wikimedia.org/wikipedia/commons/c/c9/Drake_-_Hotline_Bling.png',
+    audioUrl: 'http://russprince.com/hobbies/files/13%20Beethoven%20-%20Fur%20Elise.mp3',
+  },
+];
+
+export default class PlayingScreen extends Component {
+  render() {
+    return <Player tracks={TRACKS} />
+  }
 }
 
 const styles = StyleSheet.create({
-    container: {
-        flex: 1,
-        backgroundColor: 'rgb(4,4,4)',
-    },
+  container: {
+    flex: 1,
+    backgroundColor: 'black',
+  },
+  audioElement: {
+    height: 0,
+    width: 0,
+  },
 });
 
-export default PlayingScreen;
