@@ -400,10 +400,10 @@ export const TRACKS = [
     audioUrl: "http://russprince.com/hobbies/files/13%20Beethoven%20-%20Fur%20Elise.mp3",
   },
   {
-    title: 'Love Yourself',
-    artist: 'Justin Bieber',
-    albumArtUrl: "http://arrestedmotion.com/wp-content/uploads/2015/10/JB_Purpose-digital-deluxe-album-cover_lr.jpg",
-    audioUrl: 'https://www.dropbox.com/s/0twb3q49j453prr/Imagine Dragons - Birds (Animated Video).mp3',
+    title: 'Birds',
+    artist: 'Imagin Dragons',
+    albumArtUrl: "https://img.discogs.com/y_z1s2a-PWbHyuYziwBmH_h07vg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13787318-1561122886-5258.png.jpg",
+    audioUrl: 'https://docs.google.com/uc?export=open&id=14e3vxnkr-ICaI_KIUuAvpYtyY4naBstb',
   },
   {
     title: 'Hotline Bling',

@@ -140,5 +140,6 @@
     <orderEntry type="module" module-name="Spotify_app.react-native-safe-area-context" />
     <orderEntry type="module" module-name="Spotify_app.react-native-screens" />
     <orderEntry type="module" module-name="Spotify_app.react-native-vector-icons" />
+    <orderEntry type="module" module-name="Spotify_app.react-native-video" />
   </component>
 </module>
