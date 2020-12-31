@@ -2126,6 +2126,23 @@
                     }
                 },
                 {
+                    "source": "/Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a358c6cb0ceaaddc5b59463501ee9e9d/jetified-android-scalablevideoview-1.0.4/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "1028",
+                        "endOffsets": "1079"
+                    },
+                    "to": {
+                        "startLines": "7333",
+                        "startColumns": "4",
+                        "startOffsets": "453000",
+                        "endColumns": "1028",
+                        "endOffsets": "454024"
+                    }
+                },
+                {
                     "source": "/Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/69c396a34dd1e3ab433e222278d81566/browser-1.2.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",

@@ -9,6 +9,12 @@ import DailyMix1 from "../components/DailyMix1"
 import PlayingScreen from '../screens/PlayingScreen'
 import TopTabNavigation from './TopTabNavigation'
 
+import birds from '../screens/Players/DailyMix1/birds'
+import happier from '../screens/Players/DailyMix1/happier'
+import safeandsound from '../screens/Players/DailyMix1/safe&sound'
+import perfect from '../screens/Players/DailyMix1/perfect'
+import stiches from '../screens/Players/DailyMix1/stiches'
+
 const Stack = createStackNavigator();
 
 const HomeStackNavigation = () => {
@@ -58,6 +64,51 @@ const HomeStackNavigation = () => {
                     gestureEnabled: false,
                 }}
                 name="NowPlaying" component={PlayingScreen} />
+                <Stack.Screen
+                options={{
+                    title: '',
+                    headerTransparent: true,
+                    headerBackTitle: ' ',
+                    headerTintColor: 'white',
+                    gestureEnabled: false,
+                }}
+                name="birds" component={birds} />
+                <Stack.Screen
+                options={{
+                    title: '',
+                    headerTransparent: true,
+                    headerBackTitle: ' ',
+                    headerTintColor: 'white',
+                    gestureEnabled: false,
+                }}
+                name="happier" component={happier} />
+                <Stack.Screen
+                options={{
+                    title: '',
+                    headerTransparent: true,
+                    headerBackTitle: ' ',
+                    headerTintColor: 'white',
+                    gestureEnabled: false,
+                }}
+                name="safeandsound" component={safeandsound} />
+                <Stack.Screen
+                options={{
+                    title: '',
+                    headerTransparent: true,
+                    headerBackTitle: ' ',
+                    headerTintColor: 'white',
+                    gestureEnabled: false,
+                }}
+                name="perfect" component={perfect} />
+                <Stack.Screen
+                options={{
+                    title: '',
+                    headerTransparent: true,
+                    headerBackTitle: ' ',
+                    headerTintColor: 'white',
+                    gestureEnabled: false,
+                }}
+                name="stiches" component={stiches} />
         </Stack.Navigator>
     );
 };

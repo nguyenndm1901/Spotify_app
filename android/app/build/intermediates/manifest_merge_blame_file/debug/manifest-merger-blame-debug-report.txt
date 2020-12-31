@@ -64,37 +64,37 @@
 37-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:24:7-84
 37-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:24:17-81
 38        <activity
-38-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:27:9-31:75
+38-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:27:9-31:75
 39            android:name="net.openid.appauth.AuthorizationManagementActivity"
-39-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:28:13-78
+39-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:28:13-78
 40            android:exported="false"
-40-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:29:13-37
+40-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:29:13-37
 41            android:launchMode="singleTask"
-41-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:30:13-44
+41-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:30:13-44
 42            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-42-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:31:13-72
+42-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:31:13-72
 43        <activity
-43-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:32:9-43:20
+43-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:32:9-43:20
 44            android:name="net.openid.appauth.RedirectUriReceiverActivity"
-44-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:33:13-74
+44-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:33:13-74
 45            android:exported="true" >
-45-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:34:13-36
+45-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:34:13-36
 46            <intent-filter>
-46-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:35:13-42:29
+46-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:35:13-42:29
 47                <action android:name="android.intent.action.VIEW" />
-47-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:36:17-69
-47-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:36:25-66
+47-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:36:17-69
+47-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:36:25-66
 48
 49                <category android:name="android.intent.category.DEFAULT" />
-49-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:38:17-76
-49-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:38:27-73
+49-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:38:17-76
+49-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:38:27-73
 50                <category android:name="android.intent.category.BROWSABLE" />
-50-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:39:17-78
-50-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:39:27-75
+50-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:39:17-78
+50-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:39:27-75
 51
 52                <data android:scheme="com.spotify_app" />
-52-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:41:17-67
-52-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:41:23-64
+52-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:41:17-67
+52-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:41:23-64
 53            </intent-filter>
 54        </activity>
 55    </application>

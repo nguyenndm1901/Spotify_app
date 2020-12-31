@@ -360,6 +360,8 @@ class Player extends Component {
         onProgress={this.setTime.bind(this)}    // Callback every ~250ms with currentTime
         onEnd={this.onEnd}           // Callback when playback finishes
         onError={this.videoError}    // Callback when video cannot be loaded
+        playInBackground={true}      // Play music in background
+        ignoreSilentSwitch='ignore'
         style={styles.audioElement} />
     );
 
@@ -384,7 +386,9 @@ class Player extends Component {
           onPressPause={() => this.setState({paused: true})}
           onBack={this.onBack.bind(this)}
           onForward={this.onForward.bind(this)}
-          paused={this.state.paused}/>
+          paused={this.state.paused}
+          playInBackground={this.state.playInBackground}
+          ignoreSilentSwitch={this.state.ignoreSilentSwitch}/>
         {video}
         </View>
       </View>
@@ -394,22 +398,34 @@ class Player extends Component {
 
 export const TRACKS = [
   {
-    title: 'Fur Elise',
-    artist: 'Beethoven',
-    albumArtUrl: "https://m.media-amazon.com/images/I/71TJHr9h7iL._SS500_.jpg",
-    audioUrl: "http://russprince.com/hobbies/files/13%20Beethoven%20-%20Fur%20Elise.mp3",
-  },
-  {
     title: 'Birds',
     artist: 'Imagin Dragons',
     albumArtUrl: "https://img.discogs.com/y_z1s2a-PWbHyuYziwBmH_h07vg=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-13787318-1561122886-5258.png.jpg",
     audioUrl: 'https://docs.google.com/uc?export=open&id=14e3vxnkr-ICaI_KIUuAvpYtyY4naBstb',
   },
   {
-    title: 'Hotline Bling',
-    artist: 'Drake',
-    albumArtUrl: 'https://upload.wikimedia.org/wikipedia/commons/c/c9/Drake_-_Hotline_Bling.png',
-    audioUrl: 'http://russprince.com/hobbies/files/13%20Beethoven%20-%20Fur%20Elise.mp3',
+    title: 'Happier',
+    artist: 'Ed Sheeran',
+    albumArtUrl: "https://upload.wikimedia.org/wikipedia/en/6/63/Ed_Sheeran_Happier.png",
+    audioUrl: 'https://docs.google.com/uc?export=open&id=1A5abhLJXNX20jlV6UZE5lVd7opfpyRC-',
+  },
+  {
+    title: 'Safe & Sound',
+    artist: 'Taylor Swift',
+    albumArtUrl: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/92da7b98-a917-480a-965d-ba19e33f0ff3/d6ur36r-970489a6-ab30-4879-9fe6-6101453b8797.jpg",
+    audioUrl: 'https://docs.google.com/uc?export=open&id=1YTCDPR7UyHMGAfFyPtB_l2imSUUP6bxb',
+  },
+  {
+    title: 'Perfect',
+    artist: 'Ed Sheeran',
+    albumArtUrl: "https://i1.sndcdn.com/artworks-000240088107-9s5wcs-t500x500.jpg",
+    audioUrl: 'https://docs.google.com/uc?export=open&id=1PXZpms691NQ-kiGNym3KYe6TwRawSLNd',
+  },
+  {
+    title: 'Stiches',
+    artist: 'Shawn Mendes',
+    albumArtUrl: "https://i1.sndcdn.com/artworks-000108222772-sklhj2-t500x500.jpg",
+    audioUrl: 'https://docs.google.com/uc?export=open&id=1wb0b-zpk2IqsFLgBj3RBIWLIUkwByCcW',
   },
 ];
 
@@ -422,7 +438,7 @@ export default class PlayingScreen extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'black',
+    backgroundColor: '#232323',
   },
   audioElement: {
     height: 0,

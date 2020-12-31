@@ -16,6 +16,7 @@ MERGED from [:react-native-reanimated] /Users/nguyenducminhnguyen/Desktop/GitHub
 MERGED from [:react-native-safe-area-context] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-vector-icons] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-video/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.63.3] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c803ec0dd4d18c39e15a4a1a0faba9f7/jetified-react-native-0.63.3/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/20725fa20214e86eb8fa55394d5d409e/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [org.webkit:android-jsc:r245459] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/7909fc1527cbbfa5280fa34f69372979/jetified-android-jsc-r245459/AndroidManifest.xml:2:1-11:12
@@ -37,7 +38,7 @@ MERGED from [com.facebook.fresco:soloader:2.2.0] /Users/nguyenducminhnguyen/.gra
 MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3ff5f325f0418d9356e2ddf4c121b33c/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c9350c4470b6f4895016aaf418fed985/material-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/780dca39713ff2fcf4eadcaf494ac982/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
-MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:15:1-46:12
+MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:15:1-46:12
 MERGED from [androidx.browser:browser:1.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/69c396a34dd1e3ab433e222278d81566/browser-1.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/82e63553b4b022cfff1711ae9819aad4/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/89148e3dbb2482b98d2c6649d887f30f/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -64,6 +65,7 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/nguyenducminhnguyen/.g
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/aaff256ac919a45448a380ca9a0003ca/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b7f3f626304196e508da96b58da55c51/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/8459cf74267acbf7bf85dca1ef465d1f/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a358c6cb0ceaaddc5b59463501ee9e9d/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:2:1-12:12
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/93631a34b99ed001e2b0fad5d2f119cc/jetified-fbcore-2.2.0/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/570f8ba84fcb7e14932353951c08cc5e/jetified-ui-common-2.2.0/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -90,8 +92,8 @@ uses-permission#android.permission.INTERNET
 ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:4:5-67
 MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/d202ba8bc8961450333bf473e6298c94/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
 MERGED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/d202ba8bc8961450333bf473e6298c94/jetified-flipper-0.54.0/AndroidManifest.xml:15:5-67
-MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:24:5-67
-MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:24:5-67
+MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:24:5-67
+MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:24:5-67
 	android:name
 		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:4:22-64
 application
@@ -104,8 +106,8 @@ MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.g
 MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3ff5f325f0418d9356e2ddf4c121b33c/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c9350c4470b6f4895016aaf418fed985/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c9350c4470b6f4895016aaf418fed985/material-1.1.0/AndroidManifest.xml:22:5-20
-MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:26:5-44:19
-MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:26:5-44:19
+MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:26:5-44:19
+MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:26:5-44:19
 MERGED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/73530a2d0c1df4b3085807c82555ce12/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/73530a2d0c1df4b3085807c82555ce12/core-1.1.0/AndroidManifest.xml:24:5-89
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/fa40148eab14a6d2386ba091992d3749/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
@@ -188,6 +190,8 @@ MERGED from [:react-native-screens] /Users/nguyenducminhnguyen/Desktop/GitHub/Sp
 MERGED from [:react-native-screens] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-video/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-video/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.63.3] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c803ec0dd4d18c39e15a4a1a0faba9f7/jetified-react-native-0.63.3/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.63.3] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c803ec0dd4d18c39e15a4a1a0faba9f7/jetified-react-native-0.63.3/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/20725fa20214e86eb8fa55394d5d409e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
@@ -230,8 +234,8 @@ MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhngu
 MERGED from [com.google.android.material:material:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c9350c4470b6f4895016aaf418fed985/material-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/780dca39713ff2fcf4eadcaf494ac982/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/780dca39713ff2fcf4eadcaf494ac982/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
-MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:20:5-22:41
-MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:20:5-22:41
+MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:20:5-22:41
+MERGED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/69c396a34dd1e3ab433e222278d81566/browser-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.browser:browser:1.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/69c396a34dd1e3ab433e222278d81566/browser-1.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/82e63553b4b022cfff1711ae9819aad4/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
@@ -284,6 +288,8 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/nguyenducm
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b7f3f626304196e508da96b58da55c51/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/8459cf74267acbf7bf85dca1ef465d1f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/8459cf74267acbf7bf85dca1ef465d1f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a358c6cb0ceaaddc5b59463501ee9e9d/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a358c6cb0ceaaddc5b59463501ee9e9d/jetified-android-scalablevideoview-1.0.4/AndroidManifest.xml:8:5-10:41
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/93631a34b99ed001e2b0fad5d2f119cc/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fbcore:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/93631a34b99ed001e2b0fad5d2f119cc/jetified-fbcore-2.2.0/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:ui-common:2.2.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/570f8ba84fcb7e14932353951c08cc5e/jetified-ui-common-2.2.0/AndroidManifest.xml:5:5-7:41
@@ -305,38 +311,38 @@ ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gra
 	android:name
 		ADDED from [com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/d202ba8bc8961450333bf473e6298c94/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
 activity#net.openid.appauth.AuthorizationManagementActivity
-ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:27:9-31:75
+ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:27:9-31:75
 	android:launchMode
-		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:30:13-44
+		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:30:13-44
 	android:exported
-		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:29:13-37
+		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:29:13-37
 	android:theme
-		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:31:13-72
+		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:31:13-72
 	android:name
-		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:28:13-78
+		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:28:13-78
 activity#net.openid.appauth.RedirectUriReceiverActivity
-ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:32:9-43:20
+ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:32:9-43:20
 	android:exported
-		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:34:13-36
+		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:34:13-36
 	android:name
-		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:33:13-74
+		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:33:13-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:${appAuthRedirectScheme}
-ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:35:13-42:29
+ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:35:13-42:29
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:com.spotify_app
-ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:35:13-42:29
+ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:35:13-42:29
 action#android.intent.action.VIEW
-ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:36:17-69
+ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:36:17-69
 	android:name
-		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:36:25-66
+		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:36:25-66
 category#android.intent.category.DEFAULT
-ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:38:17-76
+ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:38:17-76
 	android:name
-		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:38:27-73
+		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:38:27-73
 category#android.intent.category.BROWSABLE
-ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:39:17-78
+ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:39:17-78
 	android:name
-		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:39:27-75
+		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:39:27-75
 data
-ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:41:17-67
+ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:41:17-67
 	android:scheme
-		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/064cb56e03056eda3eac55777db5572f/jetified-appauth-0.7.1/AndroidManifest.xml:41:23-64
+		ADDED from [net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:41:23-64
