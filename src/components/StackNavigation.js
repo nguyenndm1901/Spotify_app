@@ -2,7 +2,7 @@ import React from "react";
 import { createStackNavigator } from "@react-navigation/stack";
 import HomeScreen from "../screens/HomeScreen";
 import Settings from "../screens/Settings";
-import SearchScreen from "../screens/SearchScreen";
+import Load from "../screens/Load";
 import Profile from "../screens/Profile"
 import Premium from '../screens/Premium'
 import DailyMix1 from "../components/DailyMix1"
@@ -116,7 +116,7 @@ const HomeStackNavigation = () => {
 const SearchStackNavigation = () => {
     return (
         <Stack.Navigator screenOptions={{ headerShown: false }}>
-            <Stack.Screen name="Search" component={SearchScreen} />
+            <Stack.Screen name="Search" component={Load} />
         </Stack.Navigator>
     );
 };

@@ -9,7 +9,7 @@ import {
     StatusBar,
     Platform
 } from 'react-native';
-import { TextInput } from 'react-native-gesture-handler';
+import { TextInput } from 'react-native';
 import FontAwesome from 'react-native-vector-icons/FontAwesome';
 FontAwesome.loadFont();
 import LinearGradient from 'react-native-linear-gradient';
