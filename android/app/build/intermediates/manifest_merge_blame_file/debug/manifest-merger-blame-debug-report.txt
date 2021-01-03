@@ -1,102 +1,94 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.spotify_app"
+3    package="com.spotifyclone"
 4    android:versionCode="1"
-5    android:versionName="1.0" >
+5    android:versionName="0.0.1" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="16"
-9        android:targetSdkVersion="29" />
+8        android:minSdkVersion="18"
+9        android:targetSdkVersion="28" />
 10
 11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-11-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/debug/AndroidManifest.xml:5:5-77
-11-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/debug/AndroidManifest.xml:5:22-75
+11-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/debug/AndroidManifest.xml:5:22-75
 12    <uses-permission android:name="android.permission.INTERNET" />
-12-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:4:5-67
-12-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:4:22-64
-13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-13-->[com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/d202ba8bc8961450333bf473e6298c94/jetified-flipper-0.54.0/AndroidManifest.xml:16:5-76
-13-->[com.facebook.flipper:flipper:0.54.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/d202ba8bc8961450333bf473e6298c94/jetified-flipper-0.54.0/AndroidManifest.xml:16:22-73
-14
-15    <application
-15-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:6:5-25:19
-16        android:name="com.spotify_app.MainApplication"
-16-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:7:7-38
-17        android:allowBackup="false"
-17-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:11:7-34
-18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-18-->[androidx.core:core:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/73530a2d0c1df4b3085807c82555ce12/core-1.1.0/AndroidManifest.xml:24:18-86
-19        android:debuggable="true"
-20        android:icon="@mipmap/ic_launcher"
-20-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:9:7-41
-21        android:label="@string/app_name"
-21-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:8:7-39
-22        android:roundIcon="@mipmap/ic_launcher_round"
-22-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:10:7-52
-23        android:theme="@style/AppTheme"
-23-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:12:7-38
-24        android:usesCleartextTraffic="true" >
-24-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/debug/AndroidManifest.xml:7:18-53
-25        <activity
-25-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:13:7-23:18
-26            android:name="com.spotify_app.MainActivity"
-26-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:14:9-37
-27            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-27-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:16:9-86
-28            android:label="@string/app_name"
-28-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:15:9-41
-29            android:launchMode="singleTask"
-29-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:17:9-40
-30            android:windowSoftInputMode="adjustResize" >
-30-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:18:9-51
+12-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/spotify-lite-master/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-79
+13-->[:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/spotify-lite-master/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-76
+14    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+14-->[:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/spotify-lite-master/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-76
+14-->[:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/spotify-lite-master/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:10:22-73
+15
+16    <application
+16-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:6:5-24:19
+17        android:name="com.spotifyclone.MainApplication"
+17-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:7:7-38
+18        android:allowBackup="false"
+18-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:11:7-34
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a16dae7d0f3bd4a6dc4709868003ee72/core-1.1.0-rc01/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:9:7-41
+22        android:label="@string/app_name"
+22-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:8:7-39
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:10:7-52
+24        android:theme="@style/AppTheme"
+24-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:12:7-38
+25        android:usesCleartextTraffic="true" >
+25-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/debug/AndroidManifest.xml:7:18-53
+26        <activity
+26-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:13:7-22:18
+27            android:name="com.spotifyclone.MainActivity"
+27-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:14:9-37
+28            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+28-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:16:9-79
+29            android:label="@string/app_name"
+29-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:15:9-41
+30            android:windowSoftInputMode="adjustPan|adjustResize" >
+30-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:17:9-61
 31            <intent-filter>
-31-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:19:9-22:25
+31-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:18:9-21:25
 32                <action android:name="android.intent.action.MAIN" />
-32-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:20:13-65
-32-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:20:21-62
+32-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:19:13-65
+32-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:19:21-62
 33
 34                <category android:name="android.intent.category.LAUNCHER" />
-34-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:21:13-73
-34-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:21:23-70
+34-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:20:13-73
+34-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:20:23-70
 35            </intent-filter>
 36        </activity>
 37        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-37-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:24:7-84
-37-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:24:17-81
-38        <activity
-38-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:27:9-31:75
-39            android:name="net.openid.appauth.AuthorizationManagementActivity"
-39-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:28:13-78
-40            android:exported="false"
-40-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:29:13-37
-41            android:launchMode="singleTask"
-41-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:30:13-44
-42            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-42-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:31:13-72
-43        <activity
-43-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:32:9-43:20
-44            android:name="net.openid.appauth.RedirectUriReceiverActivity"
-44-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:33:13-74
-45            android:exported="true" >
-45-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:34:13-36
-46            <intent-filter>
-46-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:35:13-42:29
-47                <action android:name="android.intent.action.VIEW" />
-47-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:36:17-69
-47-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:36:25-66
+37-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:23:7-84
+37-->/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/AndroidManifest.xml:23:17-81
+38
+39        <provider
+39-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/spotify-lite-master/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-20:20
+40            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+40-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/spotify-lite-master/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-83
+41            android:authorities="com.spotifyclone.fileprovider"
+41-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/spotify-lite-master/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:13-64
+42            android:exported="false"
+42-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/spotify-lite-master/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:13-37
+43            android:grantUriPermissions="true" >
+43-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/spotify-lite-master/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:13-47
+44            <meta-data
+44-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/spotify-lite-master/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:13-19:63
+45                android:name="android.support.FILE_PROVIDER_PATHS"
+45-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/spotify-lite-master/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:17-67
+46                android:resource="@xml/file_provider_paths" />
+46-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/spotify-lite-master/node_modules/react-native-webview/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:17-60
+47        </provider>
 48
-49                <category android:name="android.intent.category.DEFAULT" />
-49-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:38:17-76
-49-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:38:27-73
-50                <category android:name="android.intent.category.BROWSABLE" />
-50-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:39:17-78
-50-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:39:27-75
-51
-52                <data android:scheme="com.spotify_app" />
-52-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:41:17-67
-52-->[net.openid:appauth:0.7.1] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2737851dec8c97d71224e972a44ccdae/jetified-appauth-0.7.1/AndroidManifest.xml:41:23-64
-53            </intent-filter>
-54        </activity>
-55    </application>
-56
-57</manifest>
+49        <meta-data
+49-->[com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:11:9-13:43
+50            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+50-->[com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:12:13-84
+51            android:value="GlideModule" />
+51-->[com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:13:13-40
+52    </application>
+53
+54</manifest>

@@ -4,11 +4,6 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>AppAuth.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>BVLinearGradient.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -84,22 +79,22 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-Spotify_app-Spotify_appTests.xcscheme</key>
+		<key>Pods-spotifyclone-spotifycloneTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-Spotify_app-tvOS.xcscheme</key>
+		<key>Pods-spotifyclone-tvOS.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-Spotify_app-tvOSTests.xcscheme</key>
+		<key>Pods-spotifyclone-tvOSTests.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>Pods-Spotify_app.xcscheme</key>
+		<key>Pods-spotifyclone.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -114,7 +109,12 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>RNCMaskedView.xcscheme</key>
+		<key>RNCAsyncStorage.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RNFastImage.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -124,7 +124,17 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>RNImageColors.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>RNReanimated.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>RNSVG.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
@@ -234,6 +244,16 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>SDWebImage.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SDWebImageWebPCoder.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Yoga.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -254,22 +274,27 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>react-native-app-auth.xcscheme</key>
+		<key>libwebp.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>react-native-safe-area-context.xcscheme</key>
+		<key>react-native-netinfo.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>react-native-slider.xcscheme</key>
+		<key>react-native-splash-screen.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>react-native-video.xcscheme</key>
+		<key>react-native-webview.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>toolbar-android.xcscheme</key>
 		<dict>
 			<key>isShown</key>
 			<false/>

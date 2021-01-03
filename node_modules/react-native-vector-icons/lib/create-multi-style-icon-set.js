@@ -131,6 +131,7 @@ export default function createMultiStyleIconSet(styles, optionsInput = {}) {
   Icon.Button = createStyledIconClass('Button');
   Icon.TabBarItem = createStyledIconClass('TabBarItem');
   Icon.TabBarItemIOS = createStyledIconClass('TabBarItemIOS');
+  Icon.ToolbarAndroid = createStyledIconClass('ToolbarAndroid');
   Icon.getStyledIconSet = getStyledIconSet;
   Icon.getImageSource = getImageSource;
   Icon.getFontFamily = getFontFamily;

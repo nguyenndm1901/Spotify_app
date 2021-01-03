@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
-                    "source": "/Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e78281056f721161211dc389d0368ebb/appcompat-1.1.0/res/values-watch-v20/values-watch-v20.xml",
+                    "source": "/Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2034bc37af763cb3237511a87a245771/appcompat-1.1.0-rc01/res/values-watch-v20/values-watch-v20.xml",
                     "from": {
                         "startLines": "2,5,8",
                         "startColumns": "4,4,4",

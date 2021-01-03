@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e78281056f721161211dc389d0368ebb/appcompat-1.1.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2034bc37af763cb3237511a87a245771/appcompat-1.1.0-rc01/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/71c6fde156c0108222374f4242b8f6c5/core-1.1.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a16dae7d0f3bd4a6dc4709868003ee72/core-1.1.0-rc01/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
