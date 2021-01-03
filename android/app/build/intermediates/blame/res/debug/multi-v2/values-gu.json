@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml",
+            "outputFile": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml",
             "map": [
                 {
                     "source": "/Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a16dae7d0f3bd4a6dc4709868003ee72/core-1.1.0-rc01/res/values-gu/values-gu.xml",

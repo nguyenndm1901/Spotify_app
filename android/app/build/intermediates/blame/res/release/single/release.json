@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_cover_savedtracks.jpg.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_cover_savedtracks.jpg"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_16.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_16.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_20.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_20.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/raw_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/raw/node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-hdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-xxxhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/raw_node_modules_csstree_data_patch.json.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/raw/node_modules_csstree_data_patch.json"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_12.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_12.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/raw_node_modules_csstree_package.json.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/raw/node_modules_csstree_package.json"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_7.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_7.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/raw_app.json.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/raw/app.json"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/raw_node_modules_cssselect_lib_procedure.json.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/raw/node_modules_cssselect_lib_procedure.json"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_cover_noplaylistimage.jpg.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_cover_noplaylistimage.jpg"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/raw_node_modules_mdndata_css_atrules.json.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/raw/node_modules_mdndata_css_atrules.json"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_13.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_13.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_0.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_0.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/raw/node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_6.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_6.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_19.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_19.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_3.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_3.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/raw_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/raw/node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_18.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_18.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_5.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_5.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_1.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_1.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-xxhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/raw_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/raw/node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/layout_launch_screen.xml.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/raw_node_modules_domserializer_foreignnames.json.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/raw/node_modules_domserializer_foreignnames.json"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/raw_node_modules_mdndata_css_properties.json.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/raw/node_modules_mdndata_css_properties.json"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_10.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_10.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/raw_node_modules_mdndata_css_syntaxes.json.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/raw/node_modules_mdndata_css_syntaxes.json"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_9.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_9.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_15.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_15.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_4.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_4.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-xhdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigationstack_lib_module_views_assets_backicon.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_2.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_2.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_17.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_17.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/raw_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/raw/node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_11.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_11.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable_splash_screen.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/drawable/splash_screen.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_8.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_8.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_node_modules_reactnavigationstack_lib_module_views_assets_backiconmask.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigationstack_lib_module_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/drawable-mdpi_src_common_assets_genre_14.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/react/release/drawable-mdpi/src_common_assets_genre_14.png"
+    },
+    {
+        "merged": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

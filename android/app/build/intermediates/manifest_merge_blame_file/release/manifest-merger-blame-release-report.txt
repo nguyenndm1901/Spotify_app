@@ -1,0 +1,90 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.spotifyclone"
+4    android:versionCode="1"
+5    android:versionName="0.0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="18"
+8-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+12-->[:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->[:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-76
+13-->[:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-73
+14
+15    <application
+15-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:6:5-24:19
+16        android:name="com.spotifyclone.MainApplication"
+16-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:7:7-38
+17        android:allowBackup="false"
+17-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:11:7-34
+18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+18-->[androidx.core:core:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a16dae7d0f3bd4a6dc4709868003ee72/core-1.1.0-rc01/AndroidManifest.xml:24:18-86
+19        android:icon="@mipmap/ic_launcher"
+19-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:9:7-41
+20        android:label="@string/app_name"
+20-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:8:7-39
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:10:7-52
+22        android:theme="@style/AppTheme" >
+22-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:12:7-38
+23        <activity
+23-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:13:7-22:18
+24            android:name="com.spotifyclone.MainActivity"
+24-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:14:9-37
+25            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+25-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:16:9-79
+26            android:label="@string/app_name"
+26-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:15:9-41
+27            android:windowSoftInputMode="adjustPan|adjustResize" >
+27-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:17:9-61
+28            <intent-filter>
+28-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:18:9-21:25
+29                <action android:name="android.intent.action.MAIN" />
+29-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:19:13-65
+29-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:19:21-62
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:20:13-73
+31-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:20:23-70
+32            </intent-filter>
+33        </activity>
+34        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+34-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:23:7-84
+34-->/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:23:17-81
+35
+36        <provider
+36-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+37            android:name="com.reactnativecommunity.webview.RNCWebViewFileProvider"
+37-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+38            android:authorities="com.spotifyclone.fileprovider"
+38-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+39            android:exported="false"
+39-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+40            android:grantUriPermissions="true" >
+40-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+41            <meta-data
+41-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:63
+42                android:name="android.support.FILE_PROVIDER_PATHS"
+42-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+43                android:resource="@xml/file_provider_paths" />
+43-->[:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-60
+44        </provider>
+45
+46        <meta-data
+46-->[com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:11:9-13:43
+47            android:name="com.bumptech.glide.integration.okhttp3.OkHttpGlideModule"
+47-->[com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:12:13-84
+48            android:value="GlideModule" />
+48-->[com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:13:13-40
+49    </application>
+50
+51</manifest>

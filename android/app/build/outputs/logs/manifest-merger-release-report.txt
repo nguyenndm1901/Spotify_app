@@ -1,0 +1,291 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [hermes-release.aar] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5564e6aed3bee7d14660fe3bc1abbf6b/jetified-hermes-release/AndroidManifest.xml:2:1-7:12
+MERGED from [:react-native-community_async-storage] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-community_toolbar-android] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/toolbar-android/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fast-image] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-colors] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-image-colors/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-screens] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:react-native-svg] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-vector-icons] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/f5735f58713809f4a51f2768aadb0f90/jetified-react-native-0.63.4/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2034bc37af763cb3237511a87a245771/appcompat-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0c7f968eed74d48e3fe1a1ed2edd53d0/swiperefreshlayout-1.1.0-alpha02/AndroidManifest.xml:17:1-24:12
+MERGED from [:react-native-linear-gradient] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b3756c9365d80040a4a7051ab69a4c43/jetified-fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a4c9432a29f088bcdd12427b96ed296f/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/061109b172de82eb8972c3675b8aa60b/jetified-drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3830a00a2b386a06b4e590bd4fe700ef/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ea451b13712beb4dec859deb749e759b/jetified-imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/bec80c738ecb654a16ea811530cda331/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/dc50b1b81909a50c89a1596452df9624/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0a830a91187e7013efa34323f8bfcedd/jetified-soloader-0.9.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5c479dba0d072f545d4974b40df73c16/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/79b268d1f506117a2585b21c903cbce9/fragment-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b160caef8e3e1c0ea82ffc3f5149ef16/jetified-appcompat-resources-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/d5fadcad38cedcfde09ff0bb98641622/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ecb1fb67705a04e54e775cf6b8e33af7/palette-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/93b4c6a0292f6d1a68b7d05398558f00/transition-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5a4f1b1d15ef609d81cf09d2d9b5fc3e/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3ff0352f1787156881c63e55fbbb836f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e518bf76bda568564ff12e89dfd4558e/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b6d696b538e8bdbcc53af9f690bfd3b7/jetified-activity-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/caa51860f5886bd7987a256a441a2da8/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3c751c80d6a7cb560e8aa9b66c5a86e4/vectordrawable-1.1.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/8cf2c7f552f178bf7a42b2ac6ba4d3ab/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a16dae7d0f3bd4a6dc4709868003ee72/core-1.1.0-rc01/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a6b891e7f7f49e671d146d2545c29b2f/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/1defbae61bcb58d40a84e1d4996d8464/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b65757130e5475df04aeab8ec59f18ac/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:17:1-27:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/84217b00a7f3cd06f9f69f133fbc6c97/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/de1c13b5915fcc13dd4b7640e5919a8c/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/4f40bcdcfc9909e1caf87918574fd9a9/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/00f5b3c441e468c81f2ddabee75f9cd9/jetified-savedstate-1.0.0-rc01/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/90b93565f6f8118f381eb58f03f1165e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c1b6a8f4dd6dde4599c49018fd6105fb/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/7866683bcefd1af85f3ad055263c3c93/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/255b3ed8605387a31f4310514712d321/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/d742b8ccdb64942840739a0e683d4916/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/41a05cf04cf567d7d9ecc97fb061c2ef/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/08c5f6bd0a114ff7deba5e2b3a5026ad/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:2:3-29
+		INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [:react-native-splash-screen] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/f5735f58713809f4a51f2768aadb0f90/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/f5735f58713809f4a51f2768aadb0f90/jetified-react-native-0.63.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0a830a91187e7013efa34323f8bfcedd/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0a830a91187e7013efa34323f8bfcedd/jetified-soloader-0.9.0/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:10:5-14:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5c479dba0d072f545d4974b40df73c16/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5c479dba0d072f545d4974b40df73c16/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a16dae7d0f3bd4a6dc4709868003ee72/core-1.1.0-rc01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a16dae7d0f3bd4a6dc4709868003ee72/core-1.1.0-rc01/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b65757130e5475df04aeab8ec59f18ac/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b65757130e5475df04aeab8ec59f18ac/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/84217b00a7f3cd06f9f69f133fbc6c97/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/84217b00a7f3cd06f9f69f133fbc6c97/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a16dae7d0f3bd4a6dc4709868003ee72/core-1.1.0-rc01/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.spotifyclone.MainActivity
+ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:17:9-61
+	android:configChanges
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+MERGED from [hermes-release.aar] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5564e6aed3bee7d14660fe3bc1abbf6b/jetified-hermes-release/AndroidManifest.xml:5:5-44
+MERGED from [hermes-release.aar] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5564e6aed3bee7d14660fe3bc1abbf6b/jetified-hermes-release/AndroidManifest.xml:5:5-44
+MERGED from [:react-native-community_async-storage] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_toolbar-android] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/toolbar-android/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_toolbar-android] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/toolbar-android/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fast-image] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-fast-image/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-colors] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-image-colors/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-colors] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-image-colors/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-screens/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-svg] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-svg] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-svg/android/build/intermediates/library_manifest/release/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/f5735f58713809f4a51f2768aadb0f90/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.63.4] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/f5735f58713809f4a51f2768aadb0f90/jetified-react-native-0.63.4/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2034bc37af763cb3237511a87a245771/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/2034bc37af763cb3237511a87a245771/appcompat-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0c7f968eed74d48e3fe1a1ed2edd53d0/swiperefreshlayout-1.1.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0c7f968eed74d48e3fe1a1ed2edd53d0/swiperefreshlayout-1.1.0-alpha02/AndroidManifest.xml:20:5-22:41
+MERGED from [:react-native-linear-gradient] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-linear-gradient/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b3756c9365d80040a4a7051ab69a4c43/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b3756c9365d80040a4a7051ab69a4c43/jetified-fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a4c9432a29f088bcdd12427b96ed296f/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a4c9432a29f088bcdd12427b96ed296f/jetified-imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/061109b172de82eb8972c3675b8aa60b/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/061109b172de82eb8972c3675b8aa60b/jetified-drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3830a00a2b386a06b4e590bd4fe700ef/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3830a00a2b386a06b4e590bd4fe700ef/jetified-nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ea451b13712beb4dec859deb749e759b/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ea451b13712beb4dec859deb749e759b/jetified-imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/bec80c738ecb654a16ea811530cda331/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/bec80c738ecb654a16ea811530cda331/jetified-nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/dc50b1b81909a50c89a1596452df9624/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/dc50b1b81909a50c89a1596452df9624/jetified-imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0a830a91187e7013efa34323f8bfcedd/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/0a830a91187e7013efa34323f8bfcedd/jetified-soloader-0.9.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5c479dba0d072f545d4974b40df73c16/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5c479dba0d072f545d4974b40df73c16/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/79b268d1f506117a2585b21c903cbce9/fragment-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/79b268d1f506117a2585b21c903cbce9/fragment-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b160caef8e3e1c0ea82ffc3f5149ef16/jetified-appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b160caef8e3e1c0ea82ffc3f5149ef16/jetified-appcompat-resources-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/d5fadcad38cedcfde09ff0bb98641622/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/d5fadcad38cedcfde09ff0bb98641622/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ecb1fb67705a04e54e775cf6b8e33af7/palette-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/ecb1fb67705a04e54e775cf6b8e33af7/palette-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/93b4c6a0292f6d1a68b7d05398558f00/transition-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/93b4c6a0292f6d1a68b7d05398558f00/transition-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5a4f1b1d15ef609d81cf09d2d9b5fc3e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/5a4f1b1d15ef609d81cf09d2d9b5fc3e/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3ff0352f1787156881c63e55fbbb836f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3ff0352f1787156881c63e55fbbb836f/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e518bf76bda568564ff12e89dfd4558e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e518bf76bda568564ff12e89dfd4558e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b6d696b538e8bdbcc53af9f690bfd3b7/jetified-activity-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b6d696b538e8bdbcc53af9f690bfd3b7/jetified-activity-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/caa51860f5886bd7987a256a441a2da8/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/caa51860f5886bd7987a256a441a2da8/vectordrawable-animated-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3c751c80d6a7cb560e8aa9b66c5a86e4/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/3c751c80d6a7cb560e8aa9b66c5a86e4/vectordrawable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/8cf2c7f552f178bf7a42b2ac6ba4d3ab/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/8cf2c7f552f178bf7a42b2ac6ba4d3ab/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a16dae7d0f3bd4a6dc4709868003ee72/core-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a16dae7d0f3bd4a6dc4709868003ee72/core-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a6b891e7f7f49e671d146d2545c29b2f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/a6b891e7f7f49e671d146d2545c29b2f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/1defbae61bcb58d40a84e1d4996d8464/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/1defbae61bcb58d40a84e1d4996d8464/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b65757130e5475df04aeab8ec59f18ac/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b65757130e5475df04aeab8ec59f18ac/versionedparcelable-1.1.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/84217b00a7f3cd06f9f69f133fbc6c97/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/84217b00a7f3cd06f9f69f133fbc6c97/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/de1c13b5915fcc13dd4b7640e5919a8c/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/de1c13b5915fcc13dd4b7640e5919a8c/lifecycle-runtime-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/4f40bcdcfc9909e1caf87918574fd9a9/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/4f40bcdcfc9909e1caf87918574fd9a9/lifecycle-viewmodel-2.1.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/00f5b3c441e468c81f2ddabee75f9cd9/jetified-savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/00f5b3c441e468c81f2ddabee75f9cd9/jetified-savedstate-1.0.0-rc01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/90b93565f6f8118f381eb58f03f1165e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/90b93565f6f8118f381eb58f03f1165e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c1b6a8f4dd6dde4599c49018fd6105fb/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/c1b6a8f4dd6dde4599c49018fd6105fb/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/7866683bcefd1af85f3ad055263c3c93/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/7866683bcefd1af85f3ad055263c3c93/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/255b3ed8605387a31f4310514712d321/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/255b3ed8605387a31f4310514712d321/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/d742b8ccdb64942840739a0e683d4916/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/d742b8ccdb64942840739a0e683d4916/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/41a05cf04cf567d7d9ecc97fb061c2ef/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/41a05cf04cf567d7d9ecc97fb061c2ef/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/08c5f6bd0a114ff7deba5e2b3a5026ad/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/08c5f6bd0a114ff7deba5e2b3a5026ad/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from [:react-native-community_netinfo] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/@react-native-community/netinfo/android/build/intermediates/library_manifest/release/AndroidManifest.xml:10:22-73
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:13-83
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-19:63
+	android:resource
+		ADDED from [:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-60
+	android:name
+		ADDED from [:react-native-webview] /Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-webview/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:17-67
+meta-data#com.bumptech.glide.integration.okhttp3.OkHttpGlideModule
+ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:11:9-13:43
+	android:value
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:13:13-40
+	android:name
+		ADDED from [com.github.bumptech.glide:okhttp3-integration:4.9.0] /Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/e8993030eec7b98e4015e7cd6033f450/jetified-okhttp3-integration-4.9.0/AndroidManifest.xml:12:13-84

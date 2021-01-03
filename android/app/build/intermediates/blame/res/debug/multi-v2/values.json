@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/res/values/ic_launcher_background.xml",
+                    "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/values/ic_launcher_background.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,20 +21,39 @@
                     }
                 },
                 {
-                    "source": "/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/res/values/strings.xml",
+                    "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
                     "from": {
-                        "startLines": "1,2",
+                        "startLines": "6,7",
                         "startColumns": "4,4",
-                        "startOffsets": "16,66",
-                        "endColumns": "49,55",
-                        "endOffsets": "61,117"
+                        "startOffsets": "157,221",
+                        "endColumns": "63,68",
+                        "endOffsets": "216,285"
                     },
                     "to": {
-                        "startLines": "303,348",
+                        "startLines": "272,273",
                         "startColumns": "4,4",
-                        "startOffsets": "19559,24136",
-                        "endColumns": "49,55",
-                        "endOffsets": "19604,24187"
+                        "startOffsets": "17417,17481",
+                        "endColumns": "63,68",
+                        "endOffsets": "17476,17545"
+                    }
+                },
+                {
+                    "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/node_modules/react-native-splash-screen/android/build/intermediates/packaged_res/debug/values/values.xml",
+                    "from": {
+                        "startLines": "6,9,12",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "193,341,481",
+                        "endLines": "8,11,14",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "336,476,663"
+                    },
+                    "to": {
+                        "startLines": "1695,1698,1701",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "112812,112960,113100",
+                        "endLines": "1697,1700,1703",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "112955,113095,113282"
                     }
                 },
                 {
@@ -110,25 +129,6 @@
                     }
                 },
                 {
-                    "source": "/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,10",
-                        "startColumns": "4,4",
-                        "startOffsets": "54,334",
-                        "endLines": "8,12",
-                        "endColumns": "12,12",
-                        "endOffsets": "328,441"
-                    },
-                    "to": {
-                        "startLines": "373,1704",
-                        "startColumns": "4,4",
-                        "startOffsets": "25983,113287",
-                        "endLines": "378,1706",
-                        "endColumns": "12,12",
-                        "endOffsets": "26257,113394"
-                    }
-                },
-                {
                     "source": "/Users/nguyenducminhnguyen/.gradle/caches/transforms-2/files-2.1/b160caef8e3e1c0ea82ffc3f5149ef16/jetified-appcompat-resources-1.1.0-rc01/res/values/values.xml",
                     "from": {
                         "startLines": "2,29,36,47,74",
@@ -167,22 +167,20 @@
                     }
                 },
                 {
-                    "source": "/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/node_modules/react-native-splash-screen/android/build/intermediates/packaged_res/debug/values/values.xml",
+                    "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/values/strings.xml",
                     "from": {
-                        "startLines": "6,9,12",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "193,341,481",
-                        "endLines": "8,11,14",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "336,476,663"
+                        "startLines": "1,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "16,66",
+                        "endColumns": "49,55",
+                        "endOffsets": "61,117"
                     },
                     "to": {
-                        "startLines": "1695,1698,1701",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "112812,112960,113100",
-                        "endLines": "1697,1700,1703",
-                        "endColumns": "12,12,12",
-                        "endOffsets": "112955,113095,113282"
+                        "startLines": "303,348",
+                        "startColumns": "4,4",
+                        "startOffsets": "19559,24136",
+                        "endColumns": "49,55",
+                        "endOffsets": "19604,24187"
                     }
                 },
                 {
@@ -205,20 +203,22 @@
                     }
                 },
                 {
-                    "source": "/Users/nguyenducminhnguyen/Desktop/spotify-lite-master/android/app/build/generated/res/resValues/debug/values/gradleResValues.xml",
+                    "source": "/Users/nguyenducminhnguyen/Desktop/GitHub/Spotify_app/android/app/src/main/res/values/styles.xml",
                     "from": {
-                        "startLines": "6,7",
+                        "startLines": "3,10",
                         "startColumns": "4,4",
-                        "startOffsets": "157,221",
-                        "endColumns": "63,68",
-                        "endOffsets": "216,285"
+                        "startOffsets": "54,334",
+                        "endLines": "8,12",
+                        "endColumns": "12,12",
+                        "endOffsets": "328,441"
                     },
                     "to": {
-                        "startLines": "272,273",
+                        "startLines": "373,1704",
                         "startColumns": "4,4",
-                        "startOffsets": "17417,17481",
-                        "endColumns": "63,68",
-                        "endOffsets": "17476,17545"
+                        "startOffsets": "25983,113287",
+                        "endLines": "378,1706",
+                        "endColumns": "12,12",
+                        "endOffsets": "26257,113394"
                     }
                 }
             ]
